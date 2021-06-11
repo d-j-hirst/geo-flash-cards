@@ -1,0 +1,1022 @@
+#Do not edit these values directly. If a map location needs to be changed, find the relevant line and delete it, then run "Configure Map" in the app
+Canberra$Australia$Australian Capital Territory$Southern Hemisphere;247;210
+Sydney$Australia$New South Wales$Not South Africa;260;197
+Melbourne$Australia$Victoria$Not Europe;222;223
+Brisbane$Australia$Queensland$Not Europe;272;151
+Adelaide$Australia$South Australia$Not Europe;183;204
+Perth$Australia$Western Australia$Not UK;43;184
+Montgomery$United States of America$Alabama$Not Asia;201;186
+Juneau$United States of America$Alaska$Not Asia;-1;-1
+Phoenix$United States of America$Arizona$Not Asia;67;173
+Little Rock$United States of America$Arkansas$Not Asia;169;170
+Sacramento$United States of America$California$Not Asia;27;133
+Denver$United States of America$Colorado$Not Asia;106;139
+Hartford$United States of America$Connecticut$Not Asia;258;114
+Tallahassee$United States of America$Florida$Not Europe;215;196
+Atlanta$United States of America$Georgia$Not Europe;211;176
+Honolulu$United States of America$Hawaii$Not Europe;-1;-1
+Boise$United States of America$Idaho$Not Africa;59;109
+Springfield$United States of America$Illinois$Regional Capital;181;140
+Indianapolis$United States of America$Indiana$Not Africa;198;137
+Des Moines$United States of America$Iowa$Not Europe;160;132
+Topeka$United States of America$Kansas$Not Europe;152;145
+Frankfort$United States of America$Kentucky$Not Africa;205;150
+Baton Rouge$United States of America$Louisiana$Not Africa;178;200
+Augusta$United States of America$Maine$Not Africa;267;98
+Annapolis$United States of America$Maryland$Not Africa;244;141
+Boston$United States of America$Massachusetts$Not Africa;265;110
+Lansing$United States of America$Michigan$Not Africa;201;120
+Saint Paul$United States of America$Minnesota$Not Europe;163;108
+Jackson$United States of America$Mississippi$Not Europe;180;189
+Jefferson City$United States of America$Missouri$Not Europe;169;148
+Helena$United States of America$Montana$Not Europe;82;96
+Lincoln$United States of America$Nebraska$Not Europe;145;134
+Carson City$United States of America$Nevada$Not Asia;37;129
+Concord$United States of America$New Hampshire$Not Asia;260;106
+Trenton$United States of America$New Jersey$Not Asia;250;128
+Santa Fe$United States of America$New Mexico$Not South America;98;165
+Albany$United States of America$New York$Region Capital;251;111
+Raleigh$United States of America$North Carolina$Not Europe;238;160
+Bismarck$United States of America$North Dakota$Not Europe;129;96
+Columbus$United States of America$Ohio$Not Europe;212;136
+Oklahoma City$United States of America$Oklahoma$Not Europe;142;168
+Salem$United States of America$Oregon$Not Europe;30;92
+Harrisburg$United States of America$Pennsylvania$Not Europe;239;128
+Providence$United States of America$Rhode Island$Not Europe;263;113
+Columbia$United States of America$South Carolina$Not Europe;226;171
+Pierre$United States of America$South Dakota$Not an island;131;112
+Nashville$United States of America$Tennessee$Not Europe;193;163
+Austin$United States of America$Texas$Not Europe;143;207
+Salt Lake City$United States of America$Utah$Not Europe;74;131
+Montpelier$United States of America$Vermont$Not Europe;254;103
+Richmond$United States of America$Virginia$Region Capital;239;145
+Olympia$United States of America$Washington$Not Europe;35;79
+Charleston$United States of America$West Virginia$Not Europe;222;144
+Madison$United States of America$Wisconsin$Not Europe;180;118
+Cheyenne$United States of America$Wyoming$Not Europe;107;130
+Kabul$Afghanistan$$Not Africa;181;136
+Tirana$Albania$$Not India;141;129
+Algiers$Algeria$$Not Europe;165;28
+Luanda$Angola$$Not South America;56;97
+Saint John's$Antigua and Barbuda$$Not Canada;210;228
+Buenos Aires$Argentina$$Not Africa;187;119
+Yerevan$Armenia$$Not South America;106;143
+Vienna$Austria$$Not Canada;249;126
+Baku$Azerbaijan$$Not Southern Africa;231;135
+Nassau$Bahamas$$Not Europe;109;124
+Manama$Bahrain$$Not Africa;153;42
+Dhaka$Bangladesh$$Not South America;149;145
+Bridgetown$Barbados$$Not UK;91;225
+Minsk$Belarus$$Europe;140;142
+Brussels$Belgium$$Not Africa;139;121
+Belmopan$Belize$$Country Capital;121;147
+Porto Novo$Benin$$Not Europe;162;276
+Thimphu$Bhutan$$Not South America;95;143
+La Paz$Bolivia$$Capital City;74;150
+Sarajevo$Bosnia and Herzegovina$$Europe;189;153
+Gaborone$Botswana$$Africa;183;203
+Brasilia$Brazil$$Not Europe;182;160
+Bandar Seri Begawan$Brunei$$Not Europe;187;86
+Sofia$Bulgaria$$Country Capital;53;151
+Ouagadougou$Burkina Faso$$Africa;148;147
+Bujumbura$Burundi$$Africa;87;145
+Phnom Penh$Cambodia$$Not Europe;144;196
+Yaoundé$Cameroon$$Not Europe;125;238
+Ottawa$Canada$Ontario$Not Asia;210;233
+Praia$Cape Verde$$Not Asia;186;233
+Bangui$Central African Republic$$Not Europe;107;189
+N'Djamena$Chad$$Country Capital;89;209
+Santiago$Chile$$Country Capital;153;121
+Beijing$China$$Not Africa;209;127
+Bogota$Colombia$$Not Africa;162;166
+Moroni$Comoros$$Not Americas;36;97
+Kinshasa$Democratic Republic of the Congo$$Not Europe;77;156
+Brazzaville$Congo$$Not Europe;166;240
+San José$Costa Rica$$Country Capital;159;123
+Yamoussoukro$Ivory Coast$$Not South Americal;159;174
+Zagreb$Croatia$$Not Asia;130;80
+Havana$Cuba$$Not Europe;74;107
+Nicosia$Cyprus$$Not Americas;139;139
+Prague$Czechia$$Country Capital;116;136
+Dover$United States of America$Delaware$Not Europe;248;137
+Copenhagen$Denmark$$Not Asia;181;173
+Djibouti$Djibouti$$Not Europe;209;174
+Roseau$Dominica$$Not Asia;135;206
+Santo Domingo$Dominican Republic$$Not Americas;166;167
+Quito$Ecuador$$Not Asia;144;88
+Cairo$Egypt$$Not Americas;159;74
+San Salvador$El Salvador$$Not Asia;120;160
+London$United Kingdom$$Not Asia;213;237
+Malabo$Equatorial Guinea$$Not Americas;157;64
+Asmara$Eritrea$$Not Europe;121;145
+Tallinn$Estonia$$Not Americas;143;106
+Mbabane$Eswatini$$Not Asia;106;107
+Addis Ababa$Ethiopia$$Not Americas;127;150
+Palikir$Micronesia$$Not Americas;224;156
+Suva$Fiji$$Not Europe;138;175
+Helsinki$Finland$$Not Asia;141;282
+Paris$France$$Not Americas;152;91
+Libreville$Gabon$$Not Asia;62;99
+Banjul$The Gambia$$Not Europe;35;148
+Tbilisi$Georgia$$Not Americas;200;177
+Berlin$Germany$$Not Asia;221;99
+Accra$Ghana$$Not Americas;184;253
+Athens$Greece$$Not Americas;136;161
+St George's$Grenada$$Not Asia;80;228
+Guatemala City$Guatemala$$Not Asia;131;210
+Conakry$Guinea$$Not Americas;76;162
+Bissau$Guinea-Bissau$$Not Americas;112;139
+Georgetown$Guyana$$Nation Capital;180;72
+Port-au-Prince$Haiti$$Not Asia;221;196
+Tegucigalpa$Honduras$$Not Asia;106;184
+Budapest$Hungary$$Not Americas;137;135
+Reykjavik$Iceland$$Not Americas;75;197
+New Delhi$India$$Not Americas;108;96
+Jakarta$Indonesia$$Not Europe;79;173
+Tehran$Iran$$Not Americas;126;106
+Baghdad$Iraq$$Not Europe;168;142
+Dublin$Ireland$$Not Asia;220;154
+Jerusalem$Israel$$Not Americas;164;122
+Rome$Italy$$Not Americas;149;137
+Kingston$Jamaica$$Not Asia;202;168
+Dili$Timor Leste$$Not Europe;138;122
+Tokyo$Japan$$Not Americas;180;161
+Amman$Jordan$$Not Asia;84;111
+Nur-Sultan$Kazakhstan$$Not Americas;180;114
+Astana$Kazakhstan$$Not Europe;180;114
+Nairobi$Kenya$$Not Asia;117;194
+Tarawa$Kiribati$$Not Americas;44;118
+Pristina$Kosovo$$Not Americas;184;131
+Kuwait City$Kuwait$$Not Europe;188;140
+Vientiane$Laos$$Not Europe;113;158
+Riga$Latvia$$Not Asia;134;151
+Beirut$Lebanon$$Not Americas;107;143
+Maseru$Lesotho$$Not Europe;98;123
+Tripoli$Libya$$Not Americas;87;38
+Vaduz$Liechtenstein$$Not Americas;134;167
+Vilnius$Lithuania$$Not Americas;204;182
+Luxembourg City$Luxembourg$$Not Asia;152;222
+Antananarivo$Madagascar$$Not Americas;164;156
+Lilongwe$Malawi$$Not Europe;127;179
+Kuala Lumpur$Malaysia$$Not Europe;36;164
+Male$Maldives$$Not Americas;157;115
+Bamako$Mali$$Not Asia;88;225
+Valletta$Malta$$Not Americas;227;182
+Majuro$Marshall Islands$$Not Europe;240;190
+Nouakchott$Mauritania$$Not Asia;57;206
+Port Louis$Mauritius$$Not Americas;133;155
+Ciudad de Mexico$Mexico$$Not Asia;173;188
+Chișinău$Moldova$$Not Americas;173;137
+Monaco$Monaco$$Not Asia;148;203
+Ulaanbaatar$Mongolia$$Not Europe;169;138
+Podgorica$Montenegro$$Not Americas;135;198
+Rabat$Morocco$$Not Asia;154;101
+Maputo$Mozambique$$Not Americas;96;275
+Nay Pyi Taw$Myanmar$$Not Americas;134;152
+Naypyidaw$Myanmar$$Not Americas;135;152
+Windhoek$Namibia$$Not Asia;134;144
+Kathmandu$Nepal$$Not Americas;189;184
+Amsterdam$Netherlands$$Not Asia;126;131
+Wellington$New Zealand$$Asia-Pacific;187;152
+Managua$Nicaragua$$Not Asia;93;190
+Pyongyang$North Korea$$Not Europe;83;197
+Skopje$North Macedonia$$Not Asia;117;103
+Oslo$Norway$$Not Americas;84;241
+Muscat$Oman$$Not Americas;219;88
+Ngerulmud$Palau$$Not Americas;231;54
+Panama City$Panama$$Not Asia;170;134
+Port Moresby$Papua New Guinea$$Not Asia;111;189
+Asuncion$Paraguay$$Not Americas;171;207
+Lima$Peru$$Not Asia;118;190
+Manila$Philippines$$Not Americas;153;124
+Warsaw$Poland$$Not Americas;192;137
+Warszawa$Poland$$Not Americas;191;137
+Lisbon$Portugal$$Not Asia;99;191
+Doha$Qatar$$Not Europe;166;159
+Bucharest$Romania$$Not Asia;176;204
+Moscow$Russia$$Not Americas;31;133
+Kigali$Rwanda$$Not Americas;166;150
+Apia$Samoa$$Not Asia;88;195
+San Marino$San Marino$$Not Americas;124;172
+Sao Tome$São Tomé and Príncipe$$Not Americas;117;221
+Riyadh$Saudi Arabia$$Not Americas;168;142
+Dakar$Senegal$$Not Europe;37;140
+Freetown$Sierra Leone$$Not Americas;22;150
+Singapore$Singapore$$Not Europe;108;169
+Bratislava$Slovakia$$Not Americas;45;181
+Ljubljana$Slovenia$$Not Asia;113;156
+Honiara$Solomon Islands$$Not Americas;104;160
+Mogadishu$Somalia$$Not Asia;134;201
+Pretoria$South Africa$$Not Europe;207;99
+Bloemfontein$South Africa$$Not Americas;175;157
+Cape Town$South Africa$$Not Americas;49;246
+Seoul$South Korea$$Not Americas;104;95
+Juba$South Sudan$$Not Asia;184;227
+Madrid$Spain$$Not Americas;124;129
+Colombo$Sri Lanka$$Not Americas;107;200
+Khartoum$Sudan$$Not Asia;185;155
+Paramaribo$Suriname$$Not Asia;202;30
+Stockholm$Sweden$$Not Americas;156;209
+Bern$Switzerland$$Not Americas;100;136
+Damascus$Syria$$Not Europe;68;196
+Taipei$Taiwan$$Not Americas;231;86
+Dushanbe$Tajikistan$$Not Americas;59;164
+Dodoma$Tanzania$$Not Americas;161;146
+Dar es Salaam$Tanzania$$Not Asia;225;156
+Bangkok$Thailand$$Not Europe;133;139
+Lomé$Togo$$Not Americas;155;275
+Nuku'alofa$Tonga$$Not Asia;139;242
+Port of Spain$Trinidad and Tobago$$Not Asia;105;147
+Tunis$Tunisia$$Not Europe;171;33
+Ankara$Turkey$$Not Americas;120;133
+Ashgabat$Turkmenistan$$Not Americas;128;175
+Funafuti$Tuvalu$$Not Asia;215;167
+Kampala$Uganda$$Not Asia;162;196
+Kiev$Ukraine$$Not Americas;139;98
+Abu Dhabi$United Arab Emirates$$Not Americas;166;149
+London$United Kingdom$$Not Americas;212;237
+Montevideo$Uruguay$$Not Europe;131;264
+Tashkent$Uzbekistan$$Not Americas;225;150
+Port Vila$Vanuatu$$Not Asia;147;190
+Caracas$Venezuela$$Not Asia;132;85
+Hanoi$Vietnam$$Not Europe;147;55
+Sana'a$Yemen$$Not Americas;69;152
+Lusaka$Zambia$$Not Asia;161;199
+Harare$Zimbabwe$$Not Europe;203;102
+Bishkek$Kyrgyzstan$$Not Americas;146;101
+Castries$Saint Lucia$$Not Asia;134;97
+Kingstown$Saint Vincent and the Grenadines$$Not Europe;171;81
+Basseterre$Saint Kitts and Nevis$$Not Asia;135;125
+Rebun$Japan$Hokkaido$Not Region Captial;177;60
+Rishirifuji$Japan$Hokkaido$Not Region Captial;179;62
+Wakkanai$Japan$Hokkaido$Not Region Captial;182;60
+Sarufutsu$Japan$Hokkaido$Not Region Captial;185;60
+Toyotomi$Japan$Hokkaido$Not Region Captial;184;62
+Horonobe$Japan$Hokkaido$Not Region Captial;185;63
+Hamatombetsu$Japan$Hokkaido$Not Region Captial;186;61
+Teshio$Japan$Hokkaido$Not Region Captial;183;65
+Nakatombetsu$Japan$Hokkaido$Not Region Captial;186;64
+Esashi$Japan$Hokkaido$Not Region Captial;189;64
+Embetsu$Japan$Hokkaido$Not Region Captial;183;68
+Nakagawa$Japan$Hokkaido$Not Region Captial;186;67
+Otoineppu$Japan$Hokkaido$Not Region Captial;187;67
+Shosambetsu$Japan$Hokkaido$Not Region Captial;184;70
+Haboro$Japan$Hokkaido$Not Region Captial;184;68
+Tomamae$Japan$Hokkaido$Not Region Captial;184;69
+Obira$Japan$Hokkaido$Not Region Captial;184;73
+Rumoi$Japan$Hokkaido$Not Region Captial;184;74
+Mashike$Japan$Hokkaido$Not Region Captial;183;76
+Bifuka$Japan$Hokkaido$Not Region Captial;188;68
+Nayoro$Japan$Hokkaido$Not Region Captial;189;69
+Shibetsu$Japan$Hokkaido$Not Region Captial;189;72
+Kembushi$Japan$Hokkaido$Not Region Captial;189;73
+Wassamu$Japan$Hokkaido$Not Region Captial;188;74
+Pippu$Japan$Hokkaido$Not Region Captial;189;75
+Asahikawa$Japan$Hokkaido$Not Region Captial;189;76
+Kamikawa$Japan$Hokkaido$Not Region Captial;192;75
+Higashikawa$Japan$Hokkaido$Not Region Captial;190;76
+Biei$Japan$Hokkaido$Not Region Captial;191;78
+Kamifurano$Japan$Hokkaido$Not Region Captial;191;79
+Furano$Japan$Hokkaido$Not Region Captial;190;80
+Minamifurano$Japan$Hokkaido$Not Region Captial;191;81
+Shimukappu$Japan$Hokkaido$Not Region Captial;190;82
+Chippubetsu$Japan$Hokkaido$Not Region Captial;187;77
+Fukagawa$Japan$Hokkaido$Not Region Captial;187;78
+Takikawa$Japan$Hokkaido$Not Region Captial;186;80
+Sunagawa$Japan$Hokkaido$Not Region Captial;185;81
+Bibai$Japan$Hokkaido$Not Region Captial;186;82
+Mikasa$Japan$Hokkaido$Not Region Captial;186;83
+Iwamizawa$Japan$Hokkaido$Not Region Captial;186;83
+Kuriyama$Japan$Hokkaido$Not Region Captial;186;85
+Yubari$Japan$Hokkaido$Not Region Captial;187;85
+Naganuma$Japan$Hokkaido$Not Region Captial;186;85
+Kitahiroshima$Japan$Hokkaido$Not Region Captial;185;84
+Ebetsu$Japan$Hokkaido$Not Region Captial;185;83
+Ishikari$Japan$Hokkaido$Not Region Captial;182;81
+Sapporo$Japan$Hokkaido$Not Nation Captial;182;84
+Otaru$Japan$Hokkaido$Not Region Captial;177;84
+Yoichi$Japan$Hokkaido$Not Region Captial;177;83
+Shakotan$Japan$Hokkaido$Not Region Captial;176;82
+Kamoenai$Japan$Hokkaido$Not Region Captial;176;84
+Tomari$Japan$Hokkaido$Not Region Captial;176;85
+Iwanai$Japan$Hokkaido$Not Region Captial;176;87
+Akaigawa$Japan$Hokkaido$Not Region Captial;178;85
+Kutchan$Japan$Hokkaido$Not Region Captial;178;86
+Niseko$Japan$Hokkaido$Not Region Captial;178;87
+Rankoshi$Japan$Hokkaido$Not Region Captial;176;89
+Suttsu$Japan$Hokkaido$Not Region Captial;174;89
+Kuromatsunai$Japan$Hokkaido$Not Region Captial;176;90
+Shimamaki$Japan$Hokkaido$Not Region Captial;175;90
+Oshamambe$Japan$Hokkaido$Not Region Captial;176;93
+Imakane$Japan$Hokkaido$Not Region Captial;174;94
+Setana$Japan$Hokkaido$Not Region Captial;172;94
+Yakumo$Japan$Hokkaido$Not Region Captial;176;96
+Okushiri$Japan$Hokkaido$Not Region Captial;170;94
+Otobe$Japan$Hokkaido$Not Region Captial;174;96
+Assabu$Japan$Hokkaido$Not Region Captial;176;97
+Kaminokuni$Japan$Hokkaido$Not Region Captial;174;98
+Matsumae$Japan$Hokkaido$Not Region Captial;175;102
+Fukushima$Japan$Hokkaido$Not Honshu;177;101
+Shiriuchi$Japan$Hokkaido$Not Region Captial;177;100
+Kikonai$Japan$Hokkaido$Not Region Captial;177;99
+Hakodate$Japan$Hokkaido$Not Region Captial;180;99
+Nanae$Japan$Hokkaido$Not Region Captial;179;98
+Shikabe$Japan$Hokkaido$Not Region Captial;181;96
+Mori$Japan$Hokkaido$Not Region Captial;177;95
+Toyako$Japan$Hokkaido$Not Region Captial;175;93
+Date$Japan$Hokkaido$Not Region Captial;176;91
+Sobetsu$Japan$Hokkaido$Not Region Captial;180;90
+Rusutsu$Japan$Hokkaido$Not Region Captial;181;87
+Muroran$Japan$Hokkaido$Not Region Captial;181;92
+Noboribetsu$Japan$Hokkaido$Not Region Captial;182;91
+Shiraoi$Japan$Hokkaido$Not Region Captial;183;90
+Tomakomai$Japan$Hokkaido$Not Region Captial;185;88
+Chitose$Japan$Hokkaido$Not Region Captial;185;87
+Abira$Japan$Hokkaido$Not Region Captial;187;87
+Atsuma$Japan$Hokkaido$Not Region Captial;187;88
+Mukawa$Japan$Hokkaido$Not Region Captial;188;88
+Biratori$Japan$Hokkaido$Not Region Captial;189;89
+Hidaka$Japan$Hokkaido$Not Region Captial;189;89
+Shinhidaka$Japan$Hokkaido$Not Region Captial;190;89
+Urakawa$Japan$Hokkaido$Not Region Captial;194;91
+Samani$Japan$Hokkaido$Not Region Captial;195;92
+Erimo$Japan$Hokkaido$Not Region Captial;196;92
+Hiroo$Japan$Hokkaido$Not Region Captial;199;89
+Taiki$Japan$Hokkaido$Not Region Captial;199;86
+Sarabetsu$Japan$Hokkaido$Not Region Captial;199;85
+Memuro$Japan$Hokkaido$Not Region Captial;198;84
+Obihiro$Japan$Hokkaido$Not Region Captial;198;83
+Otofuke$Japan$Hokkaido$Not Region Captial;198;82
+Shikaoi$Japan$Hokkaido$Not Region Captial;196;82
+Shintoku$Japan$Hokkaido$Not Region Captial;195;83
+Makubetsu$Japan$Hokkaido$Not Region Captial;199;82
+Toyokoro$Japan$Hokkaido$Not Region Captial;199;81
+Urahoro$Japan$Hokkaido$Not Region Captial;201;84
+Shihoro$Japan$Hokkaido$Not Region Captial;197;82
+Kamishihoro$Japan$Hokkaido$Not Region Captial;197;81
+Ashoro$Japan$Hokkaido$Not Region Captial;198;80
+Hombetsu$Japan$Hokkaido$Not Region Captial;200;81
+Rikubetsu$Japan$Hokkaido$Not Region Captial;199;77
+Oketo$Japan$Hokkaido$Not Region Captial;198;76
+Kunneppu$Japan$Hokkaido$Not Region Captial;199;75
+Kitami$Japan$Hokkaido$Not Region Captial;200;74
+Tsubetsu$Japan$Hokkaido$Not Region Captial;201;75
+Bihoro$Japan$Hokkaido$Not Region Captial;200;75
+Ozora$Japan$Hokkaido$Not Region Captial;200;73
+Abashiri$Japan$Hokkaido$Not Region Captial;200;72
+Saroma$Japan$Hokkaido$Not Region Captial;197;70
+Engaru$Japan$Hokkaido$Not Region Captial;195;71
+Tubetsu$Japan$Hokkaido$Not Region Captial;195;69
+Mombetsu$Japan$Hokkaido$Not Region Captial;193;67
+Okoppe$Japan$Hokkaido$Not Region Captial;192;66
+Nishikoppe$Japan$Hokkaido$Not Region Captial;189;66
+Shimokawa$Japan$Hokkaido$Not Region Captial;188;66
+Omu$Japan$Hokkaido$Not Region Captial;189;63
+Koshimizu$Japan$Hokkaido$Not Region Captial;204;72
+Kiyosato$Japan$Hokkaido$Not Region Captial;204;72
+Shari$Japan$Hokkaido$Not Region Captial;205;71
+Rausu$Japan$Hokkaido$Not Region Captial;211;68
+Nakashibetsu$Japan$Hokkaido$Not Region Captial;209;77
+Teshikaga$Japan$Hokkaido$Not Region Captial;207;77
+Shibecha$Japan$Hokkaido$Not Region Captial;207;79
+Tsuru$Japan$Hokkaido$Not Region Captial;206;79
+Shiranuku$Japan$Hokkaido$Not Region Captial;202;81
+Kushiro$Japan$Hokkaido$Not Region Captial;203;81
+Akkeshi$Japan$Hokkaido$Not Region Captial;206;80
+Hamanaka$Japan$Hokkaido$Not Region Captial;209;80
+Betsukai$Japan$Hokkaido$Not Region Captial;209;75
+Nemuro$Japan$Hokkaido$Not Region Captial;214;77
+Aomori$Japan$Aomori$Not Nation Captial;181;109
+Tsugaru$Japan$Aomori$Not Region Captial;179;109
+Hirosaki$Japan$Aomori$Not Region Captial;181;110
+Towada$Japan$Aomori$Not Region Captial;185;110
+Misawa$Japan$Aomori$Not Region Captial;187;109
+Hachinohe$Japan$Aomori$Not Region Captial;188;111
+Mutsu$Japan$Aomori$Not Region Captial;184;103
+Higashidori$Japan$Aomori$Not Region Captial;185;103
+Kazamaura$Japan$Aomori$Not Region Captial;184;102
+Oma$Japan$Aomori$Not Region Captial;184;102
+Fukaura$Japan$Aomori$Not Region Captial;177;110
+Ajigasawa$Japan$Aomori$Not Region Captial;178;109
+Goshogawara$Japan$Aomori$Not Region Captial;179;109
+Sotogahama$Japan$Aomori$Not Region Captial;179;106
+Yomogita$Japan$Aomori$Not Region Captial;179;108
+Kuroishi$Japan$Aomori$Not Region Captial;179;109
+Hirakawa$Japan$Aomori$Not Region Captial;179;111
+Hiranai$Japan$Aomori$Not Region Captial;181;108
+Sai$Japan$Aomori$Not Region Captial;181;103
+Yokohama$Japan$Aomori$North of Sendai;184;106
+Rokkasho$Japan$Aomori$Not Region Captial;185;106
+Noheji$Japan$Aomori$Not Region Captial;184;107
+Shichinohe$Japan$Aomori$Not Region Captial;184;109
+Oirase$Japan$Aomori$Not Region Captial;186;109
+Takko$Japan$Aomori$Not Region Captial;183;112
+Sannohe$Japan$Aomori$Not Region Captial;184;111
+Hashikami$Japan$Aomori$Not Region Captial;190;111
+Akita$Japan$Akita$Not Region Captial;178;121
+Noshiro$Japan$Akita$Not Region Captial;178;115
+Odate$Japan$Akita$Not Region Captial;181;115
+Kazuno$Japan$Akita$Not Region Captial;182;116
+Kitaakita$Japan$Akita$Not Region Captial;179;117
+Oga$Japan$Akita$Not Region Captial;176;118
+Daisen$Japan$Akita$Not Region Captial;181;121
+Yurihonjo$Japan$Akita$Not Region Captial;178;125
+Yokote$Japan$Akita$Not Region Captial;181;129
+Nikaho$Japan$Akita$Not Region Captial;177;129
+Happo$Japan$Akita$Not Region Captial;176;114
+Mitane$Japan$Akita$Not Region Captial;176;116
+Katagami$Japan$Akita$Not Region Captial;177;119
+Gojome$Japan$Akita$Not Region Captial;178;117
+Kamikoani$Japan$Akita$Not Region Captial;179;117
+Fujisato$Japan$Akita$Not Region Captial;179;116
+Kosaka$Japan$Akita$Not Region Captial;182;114
+Semboku$Japan$Akita$Not Region Captial;182;120
+Misato$Japan$Akita$Not Region Captial;181;122
+Ugo$Japan$Akita$Not Region Captial;181;124
+Yuzawa$Japan$Akita$Not Region Captial;182;124
+Higashinaruse$Japan$Akita$Not Region Captial;182;124
+Morioka$Japan$Iwate$Not Region Captial;187;123
+Kuji$Japan$Iwate$Not Region Captial;191;116
+Iwaizumi$Japan$Iwate$Not Region Captial;192;119
+Miyako$Japan$Iwate$Not Region Captial;192;120
+Yamada$Japan$Iwate$Not Region Captial;192;121
+Otsuchi$Japan$Iwate$Not Region Captial;192;123
+Kamaishi$Japan$Iwate$Not Region Captial;192;124
+Hachimantai$Japan$Iwate$Not Region Captial;185;118
+Yahaba$Japan$Iwate$Not Region Captial;184;123
+Hanamaki$Japan$Iwate$Not Region Captial;186;125
+Kitakami$Japan$Iwate$Not Region Captial;186;126
+Ichinoseki$Japan$Iwate$Not Region Captial;186;128
+Karumai$Japan$Iwate$Not Region Captial;189;117
+Ninohe$Japan$Iwate$Not Region Captial;188;117
+Kunohe$Japan$Iwate$Not Region Captial;188;118
+Ichinohe$Japan$Iwate$Not Region Captial;187;118
+Hirono$Japan$Iwate$Not Region Captial;191;115
+Noda$Japan$Iwate$Not Region Captial;191;116
+Fudai$Japan$Iwate$Not Region Captial;191;117
+Tanohata$Japan$Iwate$Not Region Captial;192;118
+Tono$Japan$Iwate$Not Region Captial;190;121
+Sumita$Japan$Iwate$Not Region Captial;189;122
+Rikuzentakata$Japan$Iwate$Not Region Captial;192;124
+Kuzumaki$Japan$Iwate$Not Region Captial;188;117
+Iwate$Japan$Iwate$Not Region Captial;187;117
+Shiwa$Japan$Iwate$Not Region Captial;186;124
+Nishiwaga$Japan$Iwate$Not Region Captial;184;127
+Oshu$Japan$Iwate$Not Region Captial;186;129
+Tōno$Japan$Iwate$Not Region Captial;190;122
+Yamagata$Japan$Yamagata$Not Region Captial;193;303
+Sakata$Japan$Yamagata$Not Region Captial;176;130
+Tsuruoka$Japan$Yamagata$Not Region Captial;176;133
+Shinjō$Japan$Yamagata$Not Region Captial;179;135
+Yuza$Japan$Yamagata$Not Region Captial;175;130
+Mikawa$Japan$Yamagata$Not Region Captial;177;133
+Mamurogawa$Japan$Yamagata$Not Region Captial;180;133
+Mogami$Japan$Yamagata$Not Region Captial;181;135
+Tozawa$Japan$Yamagata$Not Region Captial;180;135
+Obanazawa$Japan$Yamagata$Not Region Captial;180;136
+Sagae$Japan$Yamagata$Not Region Captial;180;137
+Tendō$Japan$Yamagata$Not Region Captial;180;136
+Kaminoyama$Japan$Yamagata$Not Region Captial;180;139
+Nagai$Japan$Yamagata$Not Region Captial;179;140
+Nanyō$Japan$Yamagata$Not Region Captial;179;140
+Takahata$Japan$Yamagata$Not Region Captial;179;138
+Yonezawa$Japan$Yamagata$Not Region Captial;179;140
+Oguni$Japan$Yamagata$Not Region Captial;177;137
+Akita$Japan$Akita$Not Nation Captial;178;121
+Morioka$Japan$Iwate$Not Nation Captial;186;120
+Yamagata$Japan$Yamagata$Not Nation Captial;180;136
+Sendai$Japan$Miyagi$Not Nation Captial;185;135
+Kesennuma$Japan$Miyagi$Not Nation Captial;190;128
+Ishinomaki$Japan$Miyagi$Not Nation Captial;189;131
+Natori$Japan$Miyagi$Not Nation Captial;185;136
+Minamisanriku$Japan$Miyagi$Not Nation Captial;190;130
+Onagawa$Japan$Miyagi$Not Nation Captial;190;131
+Higashimatsushima$Japan$Miyagi$Not Nation Captial;188;132
+Rifu$Japan$Miyagi$Not Nation Captial;187;133
+Tome$Japan$Miyagi$Not Nation Captial;187;130
+Kurihara$Japan$Miyagi$Not Nation Captial;186;130
+Ōsaki$Japan$Miyagi$Not Nation Captial;186;132
+Kami$Japan$Miyagi$Not Nation Captial;185;131
+Iwanuma$Japan$Miyagi$Not Nation Captial;186;136
+Watari$Japan$Miyagi$Not Nation Captial;186;136
+Shiroishi$Japan$Miyagi$Not Nation Captial;185;136
+Fukushima$Japan$Fukushima$Region Captial;183;140
+Soma$Japan$Fukushima$Not Region Captial;187;140
+Minamisōma$Japan$Fukushima$Not Region Captial;187;142
+Iwaki$Japan$Fukushima$Not Region Captial;187;147
+Nihommatsu$Japan$Fukushima$Not Region Captial;183;144
+Koriyama$Japan$Fukushima$Not Region Captial;183;145
+Sukagawa$Japan$Fukushima$Not Region Captial;183;146
+Aizuwakamatsu$Japan$Fukushima$Not Region Captial;180;144
+Namie$Japan$Fukushima$Not Region Captial;187;143
+Tomioka$Japan$Fukushima$Not Region Captial;187;145
+Naraha$Japan$Fukushima$Not Region Captial;187;145
+Hirono$Japan$Fukushima$Not Region Captial;187;146
+Motomiya$Japan$Fukushima$Not Region Captial;184;144
+Tamura$Japan$Fukushima$Not Region Captial;184;145
+Nishigō$Japan$Fukushima$Not Region Captial;182;147
+Shirakawa$Japan$Fukushima$Not Region Captial;183;147
+Tanagura$Japan$Fukushima$Not Region Captial;183;148
+Hanawa$Japan$Fukushima$Not Region Captial;183;149
+Yamatsuri$Japan$Fukushima$Not Region Captial;183;149
+Inawashiro$Japan$Fukushima$Not Region Captial;181;143
+Kitakata$Japan$Fukushima$Not Region Captial;180;143
+Mishima$Japan$Fukushima$Not Region Captial;177;143
+Kaneyama$Japan$Fukushima$Not Region Captial;176;143
+Tadami$Japan$Fukushima$Not Region Captial;175;144
+Showa$Japan$Fukushima$Not Region Captial;176;144
+Shimogo$Japan$Fukushima$Not Region Captial;179;147
+Minamiaizu$Japan$Fukushima$Not Region Captial;178;147
+Hinoemata$Japan$Fukushima$Not Region Captial;175;148
+Niigata$Japan$Niigata$Not Nation Captial;171;139
+Murakami$Japan$Niigata$Not Region Captial;174;136
+Shibata$Japan$Niigata$Not Region Captial;172;141
+Tsubame$Japan$Niigata$Not Region Captial;170;143
+Nagaoka$Japan$Niigata$Not Region Captial;170;145
+Minamiuonuma$Japan$Niigata$Not Region Captial;170;148
+Joetsu$Japan$Niigata$Not Region Captial;168;147
+Itoigawa$Japan$Niigata$Not Region Captial;166;149
+Awashimaura$Japan$Niigata$Not Region Captial;172;135
+Sado$Japan$Niigata$Not Region Captial;166;138
+Sekikawa$Japan$Niigata$Not Region Captial;173;139
+Tainai$Japan$Niigata$Not Region Captial;172;140
+Agano$Japan$Niigata$Not Region Captial;172;142
+Aga$Japan$Niigata$Not Region Captial;175;143
+Gosen$Japan$Niigata$Not Region Captial;173;143
+Kamo$Japan$Niigata$Not Region Captial;172;144
+Sanjo$Japan$Niigata$Not Region Captial;172;144
+Mitsuke$Japan$Niigata$Not Region Captial;171;143
+Izumozaki$Japan$Niigata$Not Region Captial;170;143
+Kashiwazaki$Japan$Niigata$Not Region Captial;169;144
+Ojiya$Japan$Niigata$Not Region Captial;171;144
+Uonuma$Japan$Niigata$Not Region Captial;172;144
+Yuzawa$Japan$Niigata$Not Region Captial;171;147
+Tsunan$Japan$Niigata$Not Region Captial;170;147
+Myoko$Japan$Niigata$Not Region Captial;167;147
+Mito$Japan$Ibaraki$Not Nation Captial;183;155
+Hitachinaka$Japan$Ibaraki$Not Region Captial;184;154
+Tsukuba$Japan$Ibaraki$Not Region Captial;182;158
+Kitaibaraki$Japan$Ibaraki$Not Region Captial;187;150
+Takahagi$Japan$Ibaraki$Not Region Captial;186;151
+Hitachi$Japan$Ibaraki$Not Region Captial;186;152
+Daigo$Japan$Ibaraki$Not Region Captial;182;150
+Hitachiota$Japan$Ibaraki$Not Region Captial;184;152
+Hitachioyima$Japan$Ibaraki$Not Region Captial;183;152
+Tokai$Japan$Ibaraki$Not Region Captial;184;154
+Naka$Japan$Ibaraki$Not Region Captial;183;154
+Shirosato$Japan$Ibaraki$Not Region Captial;183;154
+Oarai$Japan$Ibaraki$Not Region Captial;185;155
+Kasama$Japan$Ibaraki$Not Region Captial;182;154
+Ibaraki$Japan$Ibaraki$Not Region Captial;183;154
+Omitama$Japan$Ibaraki$Not Region Captial;182;157
+Ishioka$Japan$Ibaraki$Not Region Captial;182;157
+Hokota$Japan$Ibaraki$Not Region Captial;184;157
+Namegata$Japan$Ibaraki$Not Region Captial;183;158
+Itako$Japan$Ibaraki$Not Region Captial;184;158
+Kashima$Japan$Ibaraki$Not Region Captial;186;158
+Kamisu$Japan$Ibaraki$Not Region Captial;186;160
+Choshi$Japan$Ibaraki$Not Region Captial;188;161
+Inashiki$Japan$Ibaraki$Not Region Captial;184;159
+Ryugasaki$Japan$Ibaraki$Not Region Captial;183;159
+Miho$Japan$Ibaraki$Not Region Captial;184;159
+Ami$Japan$Ibaraki$Not Region Captial;183;158
+Ushiku$Japan$Ibaraki$Not Region Captial;183;158
+Tsuchiura$Japan$Ibaraki$Not Region Captial;183;158
+Toride$Japan$Ibaraki$Not Region Captial;183;160
+Moriye$Japan$Ibaraki$Not Region Captial;183;160
+Joso$Japan$Ibaraki$Not Region Captial;183;159
+Bando$Japan$Ibaraki$Not Region Captial;182;159
+Yachiyo$Japan$Ibaraki$Not Region Captial;182;158
+Shimotsuma$Japan$Ibaraki$Not Region Captial;182;157
+Koga$Japan$Ibaraki$Not Region Captial;181;157
+Yuki$Japan$Ibaraki$Not Region Captial;181;156
+Chikusei$Japan$Ibaraki$Not Region Captial;181;156
+Sakuragawa$Japan$Ibaraki$Not Region Captial;182;156
+Utsunomiya$Japan$Tochigi$Not Nation Captial;276;21
+Nasushiobara$Japan$Tochigi$Not Region Captial;181;148
+Otawara$Japan$Tochigi$Not Region Captial;180;154
+Nikko$Japan$Tochigi$Not Region Captial;178;155
+Kanuma$Japan$Tochigi$Not Region Captial;178;155
+Tochigi$Japan$Tochigi$Not Region Captial;178;158
+Oyama$Japan$Tochigi$Not Region Captial;179;159
+Sano$Japan$Tochigi$Not Region Captial;178;159
+Ashikaga$Japan$Tochigi$Not Region Captial;177;156
+Nasu$Japan$Tochigi$Not Region Captial;181;152
+Nakagawa$Japan$Tochigi$Not Region Captial;180;156
+Yaita$Japan$Tochigi$Not Region Captial;179;156
+Shioya$Japan$Tochigi$Not Region Captial;179;156
+Sakura$Japan$Tochigi$Not Region Captial;179;157
+Nasukarasuyama$Japan$Tochigi$Not Region Captial;180;157
+Takanezawa$Japan$Tochigi$Not Region Captial;180;157
+Haga$Japan$Tochigi$Not Region Captial;180;157
+Motegi$Japan$Tochigi$Not Region Captial;181;157
+Ichikai$Japan$Tochigi$Not Region Captial;181;157
+Mashiko$Japan$Tochigi$Not Region Captial;181;157
+Moka$Japan$Tochigi$Not Region Captial;181;157
+Kaminokawa$Japan$Tochigi$Not Region Captial;179;156
+Shimotsuke$Japan$Tochigi$Not Region Captial;179;156
+Mibu$Japan$Tochigi$Not Region Captial;179;156
+Nogi$Japan$Tochigi$Not Region Captial;180;158
+Chiba$Japan$Chiba$Not Nation Captial;183;164
+Kashiwa$Japan$Chiba$Not Region Captial;182;159
+Narita$Japan$Chiba$Not Region Captial;185;160
+Togane$Japan$Chiba$Not Region Captial;184;163
+Ichihara$Japan$Chiba$Not Region Captial;183;164
+Mobara$Japan$Chiba$Not Region Captial;184;164
+Isumi$Japan$Chiba$Not Region Captial;184;166
+Katsuura$Japan$Chiba$Not Region Captial;184;166
+Kimitsu$Japan$Chiba$Not Region Captial;182;166
+Futtsu$Japan$Chiba$Not Region Captial;182;167
+Kamogawa$Japan$Chiba$Not Region Captial;184;167
+Tateyama$Japan$Chiba$Not Region Captial;182;168
+Noda$Japan$Chiba$Not Region Captial;182;159
+Abiko$Japan$Chiba$Not Region Captial;182;159
+Inzai$Japan$Chiba$Not Region Captial;183;159
+Funabashi$Japan$Chiba$Not Region Captial;182;162
+Narashino$Japan$Chiba$Not Region Captial;182;162
+Yachiyo$Japan$Chiba$Not Region Captial;183;162
+Yotsukaido$Japan$Chiba$Not Region Captial;183;162
+Sakura$Japan$Chiba$Not Region Captial;183;162
+Tomisato$Japan$Chiba$Not Region Captial;184;162
+Yachimara$Japan$Chiba$Not Region Captial;184;162
+Kozaki$Japan$Chiba$Not Region Captial;185;160
+Katori$Japan$Chiba$Not Region Captial;185;160
+Tonosho$Japan$Chiba$Not Region Captial;186;161
+Asahi$Japan$Chiba$Not Region Captial;187;161
+Sosa$Japan$Chiba$Not Region Captial;186;161
+Sammu$Japan$Chiba$Not Region Captial;185;163
+Kujukuri$Japan$Chiba$Not Region Captial;185;163
+Oamishirasato$Japan$Chiba$Not Region Captial;185;164
+Chonan$Japan$Chiba$Not Region Captial;184;166
+Ichinomiya$Japan$Chiba$Not Region Captial;184;166
+Otaki$Japan$Chiba$Not Region Captial;184;166
+Minamiboiso$Japan$Chiba$Not Region Captial;181;168
+Kyonan$Japan$Chiba$Not Region Captial;181;168
+Kisarazu$Japan$Chiba$Not Region Captial;182;165
+Sodegaura$Japan$Chiba$Not Region Captial;182;165
+Maebashi$Japan$Gunma$Not Nation Captial;173;154
+Takasaki$Japan$Gunma$Not Region Captial;172;157
+Isesaki$Japan$Gunma$Not Region Captial;172;154
+Katashina$Japan$Gunma$Not Region Captial;172;153
+Kawaba$Japan$Gunma$Not Region Captial;171;153
+Numata$Japan$Gunma$Not Region Captial;173;152
+Nakanojo$Japan$Gunma$Not Region Captial;169;152
+Naganohara$Japan$Gunma$Not Region Captial;168;153
+Shibukawa$Japan$Gunma$Not Region Captial;172;154
+Ota$Japan$Gunma$Not Tokyo;172;156
+Ueno$Japan$Gunma$Not Region Captial;171;158
+Yoshioka$Japan$Gunma$Not Region Captial;172;154
+Shinto$Japan$Gunma$Not Region Captial;174;155
+Annaka$Japan$Gunma$Not Region Captial;173;156
+Tomioka$Japan$Gunma$Not Region Captial;173;156
+Shimonita$Japan$Gunma$Not Region Captial;173;156
+Kanra$Japan$Gunma$Not Region Captial;173;156
+Fujioka$Japan$Gunma$Not Region Captial;175;157
+Midori$Japan$Gunma$Not Region Captial;176;156
+Kiryu$Japan$Gunma$Not Region Captial;176;156
+Tatebayashi$Japan$Gunma$Not Region Captial;177;157
+Itakura$Japan$Gunma$Not Region Captial;177;158
+Kamisato$Japan$Saitama$Not Region Captial;176;157
+Nakagawa$Japan$Hokkaido$Not Honshu;184;62
+Hidaka$Japan$Hokkaido$Not Honshu;189;88
+Misato$Japan$Akita$Not Saitama;181;122
+Yuzawa$Japan$Akita$Not Niigata;181;128
+Hirono$Japan$Iwate$Not Fukushima;190;112
+Noda$Japan$Iwate$Not Chiba;191;115
+Tomioka$Japan$Fukushima$Not Gunma;187;145
+Hirono$Japan$Fukushima$Not Iwate;187;147
+Yuzawa$Japan$Niigata$Not Akita;169;153
+Yachiyo$Japan$Ibaraki$Not Chiba;180;157
+Nakagawa$Japan$Tochigi$Not Hokkaido;183;152
+Sakura$Japan$Tochigi$Not Chiba;182;151
+Noda$Japan$Chiba$Not Iwate;181;159
+Yachiyo$Japan$Chiba$Not Ibaraki;183;160
+Sakura$Japan$Chiba$Not Tochigi;183;162
+Tomioka$Japan$Gunma$Not Fukushima;171;157
+Saitama$Japan$Saitama$Not Nation Captial;179;159
+Ogano$Japan$Saitama$Not Region Captial;174;158
+Chichibu$Japan$Saitama$Not Region Captial;175;160
+Fukaya$Japan$Saitama$Not Region Captial;176;159
+Yokoze$Japan$Saitama$Not Region Captial;175;159
+Minano$Japan$Saitama$Not Region Captial;176;160
+Nagatoro$Japan$Saitama$Not Region Captial;176;160
+Yorii$Japan$Saitama$Not Region Captial;176;160
+Honjo$Japan$Saitama$Not Region Captial;177;159
+Kumagaya$Japan$Saitama$Not Region Captial;178;159
+Ogawa$Japan$Saitama$Not Region Captial;179;159
+Namegawa$Japan$Saitama$Not Region Captial;179;159
+Higashimatsuyama$Japan$Saitama$Not Region Captial;180;159
+Gyoda$Japan$Saitama$Not Region Captial;180;159
+Hanyu$Japan$Saitama$Not Region Captial;181;158
+Kazo$Japan$Saitama$Not Region Captial;181;158
+Kuki$Japan$Saitama$Not Region Captial;181;159
+Satte$Japan$Saitama$Not Region Captial;181;159
+Kasukabe$Japan$Saitama$Not Region Captial;181;159
+Koshigaya$Japan$Saitama$Not Region Captial;181;159
+Ageo$Japan$Saitama$Not Region Captial;180;159
+Kawagoe$Japan$Saitama$Not Region Captial;180;159
+Sayama$Japan$Saitama$Not Region Captial;180;159
+Hanno$Japan$Saitama$Not Region Captial;180;159
+Iruma$Japan$Saitama$Not Region Captial;180;159
+Tokorozawa$Japan$Saitama$Not Region Captial;180;159
+Ogose$Japan$Saitama$Not Region Captial;179;158
+Moroyama$Japan$Saitama$Not Region Captial;179;158
+Hidaka$Japan$Saitama$Not Hokkaido;179;160
+Tsurugashima$Japan$Saitama$Not Region Captial;180;159
+Fujimino$Japan$Saitama$Not Region Captial;181;160
+Fujimi$Japan$Saitama$Not Region Captial;181;160
+Shiki$Japan$Saitama$Not Region Captial;181;160
+Niiza$Japan$Saitama$Not Region Captial;181;160
+Wako$Japan$Saitama$Not Region Captial;181;157
+Asaka$Japan$Saitama$Not Region Captial;181;157
+Warabi$Japan$Saitama$Not Region Captial;181;157
+Toda$Japan$Saitama$Not Region Captial;181;157
+Kawagushi$Japan$Saitama$Not Region Captial;181;157
+Soka$Japan$Saitama$Not Region Captial;181;157
+Yashio$Japan$Saitama$Not Region Captial;180;158
+Misato$Japan$Saitama$Not Akita;181;158
+Yoshikawa$Japan$Saitama$Not Region Captial;181;158
+Matsubashi$Japan$Saitama$Not Region Captial;181;158
+Hachioji$Japan$Tokyo$Not Region Captial;177;163
+Okutama$Japan$Tokyo$Not Region Captial;175;162
+Hinohara$Japan$Tokyo$Not Region Captial;176;163
+Ome$Japan$Tokyo$Not Region Captial;176;161
+Tachikawa$Japan$Tokyo$Not Region Captial;177;161
+Fuchu$Japan$Tokyo$Not Region Captial;178;162
+Shinjuku$Japan$Tokyo$Not Region Captial;179;161
+Shibuya$Japan$Tokyo$Not Region Captial;179;161
+Minato$Japan$Tokyo$Not Region Captial;179;161
+Adachi$Japan$Tokyo$Not Region Captial;180;160
+Hamura$Japan$Tokyo$Not Region Captial;176;160
+Hinode$Japan$Tokyo$Not Region Captial;176;160
+Akiruno$Japan$Tokyo$Not Region Captial;176;160
+Fussa$Japan$Tokyo$Not Region Captial;176;160
+Akishima$Japan$Tokyo$Not Region Captial;178;162
+Hino$Japan$Tokyo$Not Region Captial;178;162
+Machida$Japan$Tokyo$Not Region Captial;178;163
+Tama$Japan$Tokyo$Not Region Captial;178;162
+Inagi$Japan$Tokyo$Not Region Captial;178;162
+Kokubunji$Japan$Tokyo$Not Region Captial;178;162
+Kodaira$Japan$Tokyo$Not Region Captial;179;161
+Higashimurayama$Japan$Tokyo$Not Region Captial;179;161
+Nishitokyo$Japan$Tokyo$Not Region Captial;179;161
+Higashikurume$Japan$Tokyo$Not Region Captial;179;161
+Kiyose$Japan$Tokyo$Not Region Captial;179;161
+Chofu$Japan$Tokyo$Not Region Captial;178;162
+Komae$Japan$Tokyo$Not Region Captial;178;162
+Mitaka$Japan$Tokyo$Not Region Captial;178;162
+Musashino$Japan$Tokyo$Not Region Captial;178;162
+Setagaya$Japan$Tokyo$Not Region Captial;179;162
+Suginami$Japan$Tokyo$Not Region Captial;179;162
+Nerima$Japan$Tokyo$Not Region Captial;179;162
+Ota$Japan$Tokyo$Not Gunma;179;164
+Shinagawa$Japan$Tokyo$Not Region Captial;179;164
+Toshima$Japan$Tokyo$Not Region Captial;179;162
+Itabashi$Japan$Tokyo$Not Region Captial;179;162
+Taito$Japan$Tokyo$Not Region Captial;179;162
+Koto$Japan$Tokyo$Not Region Captial;181;162
+Edogawa$Japan$Tokyo$Not Region Captial;182;161
+Katsushika$Japan$Tokyo$Not Region Captial;182;160
+Arakawa$Japan$Tokyo$Not Region Captial;180;160
+Bunkyo$Japan$Tokyo$Not Region Captial;180;162
+Chuo$Japan$Tokyo$Not Region Captial;180;162
+Yokohama$Japan$Kanagawa$South of Sendai;179;168
+Sagamihara$Japan$Kanagawa$Not Region Captial;177;165
+Atsugi$Japan$Kanagawa$Not Region Captial;177;167
+Hiratsuka$Japan$Kanagawa$Not Region Captial;177;168
+Fujisawa$Japan$Kanagawa$Not Region Captial;177;168
+Kawasaki$Japan$Kanagawa$Not Region Captial;179;166
+Yugawara$Japan$Kanagawa$Not Region Captial;176;170
+Manazuru$Japan$Kanagawa$Not Region Captial;176;170
+Odawara$Japan$Kanagawa$Not Region Captial;176;169
+Minamiashigara$Japan$Kanagawa$Not Region Captial;176;169
+Yamakita$Japan$Kanagawa$Not Region Captial;176;169
+Hadano$Japan$Kanagawa$Not Region Captial;176;169
+Ninomiya$Japan$Kanagawa$Not Region Captial;177;169
+Chigasaki$Japan$Kanagawa$Not Region Captial;177;169
+Yamato$Japan$Kanagawa$Not Region Captial;177;167
+Kamakura$Japan$Kanagawa$Not Region Captial;177;168
+Miura$Japan$Kanagawa$Not Region Captial;178;171
+Yokosuka$Japan$Kanagawa$Not Region Captial;179;168
+Nagano$Japan$Nagano$Region Capital;166;154
+Hakuba$Japan$Nagano$Not Region Captial;161;156
+Matsumoto$Japan$Nagano$Not Region Captial;163;158
+Ueda$Japan$Nagano$Not Region Captial;164;157
+Karuizawa$Japan$Nagano$Not Region Captial;166;157
+Nozawaonsen$Japan$Nagano$Not Region Captial;166;153
+Iiyama$Japan$Nagano$Not Region Captial;166;153
+Otari$Japan$Nagano$Not Region Captial;161;154
+Omachi$Japan$Nagano$Not Region Captial;161;155
+Matsukawa$Japan$Nagano$Not Region Captial;161;155
+Azumino$Japan$Nagano$Not Region Captial;161;156
+Chikuma$Japan$Nagano$Not Region Captial;163;155
+Shiojiri$Japan$Nagano$Not Region Captial;163;157
+Kiso$Japan$Nagano$Not Region Captial;162;158
+Ina$Japan$Nagano$Not Region Captial;165;161
+Komagane$Japan$Nagano$Not Region Captial;165;161
+Takamori$Japan$Nagano$Not Region Captial;165;165
+Iida$Japan$Nagano$Not Region Captial;165;165
+Achi$Japan$Nagano$Not Region Captial;165;165
+Chino$Japan$Nagano$Not Region Captial;165;162
+Koumi$Japan$Nagano$Not Region Captial;168;158
+Kawakami$Japan$Nagano$Not Region Captial;168;159
+Saku$Japan$Nagano$Not Region Captial;168;157
+Komoro$Japan$Nagano$Not Region Captial;168;157
+Showa$Japan$Fukushima$Not Yamanashi;178;144
+Kōfu$Japan$Yamanashi$Not Nation Capital;169;165
+Hokuto$Japan$Yamanashi$Not Region Captial;168;164
+Kai$Japan$Yamanashi$Not Region Captial;166;165
+Showa$Japan$Yamanashi$Not Fukushima;168;166
+Fujikawa$Japan$Yamanashi$Not Region Captial;168;165
+Minobu$Japan$Yamanashi$Not Region Captial;168;165
+Hayakawa$Japan$Yamanashi$Not Region Captial;167;167
+Nambu$Japan$Yamanashi$Not Region Captial;168;168
+Fuefuki$Japan$Yamanashi$Not Region Captial;169;164
+Yamanashi$Japan$Yamanashi$Not Region Captial;170;164
+Kosuge$Japan$Yamanashi$Not Region Captial;172;162
+Otsuki$Japan$Yamanashi$Not Region Captial;171;164
+Uenohara$Japan$Yamanashi$Not Region Captial;172;164
+Doshi$Japan$Yamanashi$Not Region Captial;173;165
+Yamanakako$Japan$Yamanashi$Not Region Captial;172;167
+Mishima$Japan$Fukushima$Not Shizuoka;176;144
+Shizuoka$Japan$Shizuoka$Not Nation Capital;168;173
+Fuji$Japan$Shizuoka$Not Nation Capital;170;170
+Hamamatsu$Japan$Shizuoka$Not Region Capital;162;174
+Yaizu$Japan$Shizuoka$Not Region Capital;168;174
+Atami$Japan$Shizuoka$Not Region Capital;174;170
+Itō$Japan$Shizuoka$Not Region Capital;174;170
+Higashiizu$Japan$Shizuoka$Not Region Capital;175;172
+Shimoda$Japan$Shizuoka$Not Region Capital;174;172
+Minamiizu$Japan$Shizuoka$Not Region Capital;174;172
+Izu$Japan$Shizuoka$Not Region Capital;174;170
+Numazu$Japan$Shizuoka$Not Region Capital;174;168
+Mishima$Japan$Shizuoka$Not Fukushima;174;168
+Fujinomiya$Japan$Shizuoka$Not Region Capital;172;168
+Fujieda$Japan$Shizuoka$Not Region Capital;168;173
+Kakegawa$Japan$Shizuoka$Not Region Capital;166;173
+Omaezaki$Japan$Shizuoka$Not Region Capital;166;175
+Fukuroi$Japan$Shizuoka$Not Region Capital;165;173
+Kosai$Japan$Shizuoka$Not Region Capital;162;173
+Asahi$Japan$Chiba$Not Toyama;187;162
+Toyama$Japan$Toyama$Not Nation Capital;157;155
+Takaoka$Japan$Toyama$Not Region Capital;155;155
+Asahi$Japan$Toyama$Not Chiba;160;152
+Nyuzen$Japan$Toyama$Not Region Capital;160;152
+Kurobe$Japan$Toyama$Not Region Capital;160;152
+Uozu$Japan$Toyama$Not Region Capital;160;154
+Namerikawa$Japan$Toyama$Not Region Capital;160;155
+Imizu$Japan$Toyama$Not Region Capital;157;155
+Tonami$Japan$Toyama$Not Region Capital;156;156
+Nanto$Japan$Toyama$Not Region Capital;156;157
+Kanazawa$Japan$Ishikawa$Not Nation Capital;151;155
+Suzu$Japan$Ishikawa$Not Region Capital;156;148
+Wajima$Japan$Ishikawa$Not Region Capital;155;148
+Nanao$Japan$Ishikawa$Not Region Capital;155;151
+Komatsu$Japan$Ishikawa$Not Region Capital;151;158
+Noto$Japan$Ishikawa$Not Region Capital;157;149
+Azamizu$Japan$Ishikawa$Not Region Capital;155;150
+Shika$Japan$Ishikawa$Not Region Capital;151;150
+Hakui$Japan$Ishikawa$Not Region Capital;151;151
+Kahoku$Japan$Ishikawa$Not Region Capital;151;154
+Nonoichi$Japan$Ishikawa$Not Region Capital;151;158
+Hakusan$Japan$Ishikawa$Not Region Capital;151;158
+Nomi$Japan$Ishikawa$Not Region Capital;151;158
+Kaga$Japan$Ishikawa$Not Region Capital;151;157
+Fukui$Japan$Fukui$Not Nation Capital;150;160
+Awara$Japan$Fukui$Not Region Capital;150;158
+Sakai$Japan$Fukui$Not Region Capital;150;159
+Eiheiji$Japan$Fukui$Not Region Capital;151;160
+Katsuyama$Japan$Fukui$Not Region Capital;152;160
+Ono$Japan$Fukui$Not Region Capital;154;162
+Ikeda$Japan$Fukui$Not Region Capital;152;163
+Sabae$Japan$Fukui$Not Region Capital;151;162
+Echizen$Japan$Fukui$Not Region Capital;151;162
+Minamiechizen$Japan$Fukui$Not Region Capital;151;163
+Tsuruga$Japan$Fukui$Not Region Capital;149;165
+Wakasa$Japan$Fukui$Not Region Capital;148;166
+Obama$Japan$Fukui$Not Region Capital;146;168
+Shirakawa$Japan$Fukushima$Not Gifu;182;146
+Gifu$Japan$Gifu$Not Nation Capital;154;166
+Hida$Japan$Gifu$Not Region Capital;158;160
+Takayama$Japan$Gifu$Not Region Capital;158;162
+Gero$Japan$Gifu$Not Region Capital;157;165
+Gujo$Japan$Gifu$Not Region Capital;157;166
+Higashighirakawa$Japan$Gifu$Not Region Capital;158;166
+Ena$Japan$Gifu$Not Region Capital;159;168
+Nakatsugawa$Japan$Gifu$Not Region Capital;159;168
+Motosu$Japan$Gifu$Not Region Capital;153;168
+Ogaki$Japan$Gifu$Not Region Capital;153;168
+Sekigahara$Japan$Gifu$Not Region Capital;150;168
+Tarui$Japan$Gifu$Not Region Capital;151;168
+Yoro$Japan$Gifu$Not Region Capital;151;170
+Kaizu$Japan$Gifu$Not Region Capital;152;171
+Hashima$Japan$Gifu$Not Region Capital;153;169
+Mizuho$Japan$Gifu$Not Region Capital;153;168
+Kakamigahara$Japan$Gifu$Not Region Capital;154;168
+Mino$Japan$Gifu$Not Region Capital;154;167
+Seki$Japan$Gifu$Not Region Capital;154;167
+Minokamo$Japan$Gifu$Not Region Capital;155;169
+Kani$Japan$Gifu$Not Region Capital;155;169
+Mitake$Japan$Gifu$Not Region Capital;156;169
+Yaotsu$Japan$Gifu$Not Region Capital;156;169
+Tajimi$Japan$Gifu$Not Region Capital;156;170
+Toki$Japan$Gifu$Not Region Capital;156;170
+Mizunami$Japan$Gifu$Not Region Capital;157;168
+Shirakawa-go$Japan$Gifu$Not Region Capital;155;159
+Tokai$Japan$Ibaraki$Not Aichi;185;152
+Ichinomiya$Japan$Chiba$Not Aichi;185;168
+Nagoya$Japan$Aichi$Not Nation Capital;155;170
+Toyota$Japan$Aichi$Not Region Capital;156;169
+Okazaki$Japan$Aichi$Not Region Capital;157;171
+Toyohashi$Japan$Aichi$Not Region Capital;159;173
+Tonoye$Japan$Aichi$Not Region Capital;161;169
+Toei$Japan$Aichi$Not Region Capital;161;170
+Shitara$Japan$Aichi$Not Region Capital;160;169
+Shinshiro$Japan$Aichi$Not Region Capital;158;170
+Tahara$Japan$Aichi$Not Region Capital;157;176
+Gamagori$Japan$Aichi$Not Region Capital;158;172
+Kota$Japan$Aichi$Not Region Capital;157;172
+Nishio$Japan$Aichi$Not Region Capital;157;172
+Anjo$Japan$Aichi$Not Region Capital;157;171
+Chiryu$Japan$Aichi$Not Region Capital;157;171
+Kariya$Japan$Aichi$Not Region Capital;157;171
+Obu$Japan$Aichi$Not Region Capital;157;171
+Handa$Japan$Aichi$Not Region Capital;157;171
+Minamichita$Japan$Aichi$Not Region Capital;156;175
+Tokoname$Japan$Aichi$Not Region Capital;156;173
+Chita$Japan$Aichi$Not Russia;155;173
+Tokai$Japan$Aichi$Not Ibaraki;155;172
+Nagakute$Japan$Aichi$Not Region Capital;156;169
+Seto$Japan$Aichi$Not Region Capital;156;168
+Kasugai$Japan$Aichi$Not Region Capital;156;168
+Inuyama$Japan$Aichi$Not Region Capital;156;167
+Komaki$Japan$Aichi$Not Region Capital;155;168
+Ichinomiya$Japan$Aichi$Not Chiba;154;168
+Inazawa$Japan$Aichi$Not Region Capital;154;170
+Tsushima$Japan$Aichi$Not Region Capital;154;170
+Yatomi$Japan$Aichi$Not Region Capital;153;171
+Ōtsu$Japan$Shiga$Not Nation Capital;147;174
+Kusatsu$Japan$Shiga$Not Region Capital;147;174
+Koka$Japan$Shiga$Not Region Capital;148;174
+Omihachiman$Japan$Shiga$Not Region Capital;148;173
+Hikone$Japan$Shiga$Not Region Capital;148;172
+Maibara$Japan$Shiga$Not Region Capital;148;170
+Nagahama$Japan$Shiga$Not Region Capital;149;170
+Takashima$Japan$Shiga$Not Region Capital;148;170
+Tsu$Japan$Mie$Not Nation Capital;153;174
+Yokkaichi$Japan$Mie$Not Region Capital;153;172
+Ise$Japan$Mie$Not Region Capital;154;176
+Suzuka$Japan$Mie$Not Region Capital;153;173
+Kameyama$Japan$Mie$Not Region Capital;150;173
+Iga$Japan$Mie$Not Region Capital;150;173
+Nabari$Japan$Mie$Not Region Capital;150;175
+Matsusaka$Japan$Mie$Not Region Capital;152;177
+Meiwa$Japan$Mie$Not Region Capital;154;177
+Toba$Japan$Mie$Not Region Capital;155;179
+Shima$Japan$Mie$Not Region Capital;154;180
+Owase$Japan$Mie$Not Region Capital;151;183
+Kumano$Japan$Mie$Not Region Capital;151;184
+Kyoto$Japan$Kyoto$Not Nation Capital;146;173
+Kyōtango$Japan$Kyoto$Not Region Capital;140;166
+Ine$Japan$Kyoto$Not Region Capital;141;165
+Miyasu$Japan$Kyoto$Not Region Capital;141;167
+Maizuru$Japan$Kyoto$Not Region Capital;143;168
+Fukuchiyama$Japan$Kyoto$Not Region Capital;141;170
+Nantan$Japan$Kyoto$Not Region Capital;144;172
+Kameoka$Japan$Kyoto$Not Region Capital;144;172
+Muko$Japan$Kyoto$Not Region Capital;144;172
+Nagaokakyo$Japan$Kyoto$Not Region Capital;144;173
+Uji$Japan$Kyoto$Not Region Capital;146;174
+Joyo$Japan$Kyoto$Not Region Capital;146;174
+Ibaraki$Japan$Ibaraki$Not Osaka;184;152
+Sakai$Japan$Fukui$Not Osaka;151;160
+Osaka$Japan$Osaka$Not Nation Capital;143;178
+Sakai$Japan$Osaka$Not Fukui;143;179
+Takatsuki$Japan$Osaka$Not Region Capital;145;173
+Hirakata$Japan$Osaka$Not Region Capital;145;174
+Ibaraki$Japan$Osaka$Not Ibaraki Prefecture;145;174
+Minoo$Japan$Osaka$Not Region Capital;144;174
+Toyonaka$Japan$Osaka$Not Region Capital;144;174
+Katano$Japan$Osaka$Not Region Capital;146;175
+Neyagawa$Japan$Osaka$Not Region Capital;146;175
+Higashiosaka$Japan$Osaka$Not Region Capital;145;177
+Yao$Japan$Osaka$Not Region Capital;145;177
+Kashiwara$Japan$Osaka$Not Region Capital;145;178
+Habikino$Japan$Osaka$Not Region Capital;145;178
+Tondabayashi$Japan$Osaka$Not Region Capital;144;180
+Kawachinagano$Japan$Osaka$Not Region Capital;144;180
+Takaishi$Japan$Osaka$Not Region Capital;143;179
+Izumiotsu$Japan$Osaka$Not Region Capital;143;181
+Kishiwada$Japan$Osaka$Not Region Capital;143;181
+Kaizuka$Japan$Osaka$Not Region Capital;142;179
+Izumisano$Japan$Osaka$Not Region Capital;143;179
+Sennan$Japan$Osaka$Not Region Capital;143;179
+Hannan$Japan$Osaka$Not Region Capital;143;179
+Wakayama$Japan$Wakayama$Not Nation Capital;143;182
+Tanabe$Japan$Wakayama$Not Region Capital;144;186
+Shirahama$Japan$Wakayama$Not Region Capital;144;186
+Kinokawa$Japan$Wakayama$Not Region Capital;143;183
+Gobo$Japan$Wakayama$Not Region Capital;142;185
+Susami$Japan$Wakayama$Not Region Capital;145;189
+Taiji$Japan$Wakayama$Not Region Capital;149;188
+Shingu$Japan$Wakayama$Not Region Capital;149;187

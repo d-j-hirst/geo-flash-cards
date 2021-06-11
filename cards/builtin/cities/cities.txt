@@ -1,0 +1,1004 @@
+# Syntax: city-name;region[,subregion];default-rating[,default-rating-subregion];hint;hint-required
+# region[,subregion] means enter the main region (usually a country) and optionally a subregion after a comma, do not write the comma if there is no subregion
+# default-rating indicates how hard the card is to know, use 1300 for very easy ones, 2000+ for very difficult/obsure ones, use 1500 if unsure
+# add the default-rating-subregion if a subregion is given, if it isn't then it will default to default_rating + 300
+# It is not mandatory to give a hint if not required, but it is recommended so that people don't use the mere existence of a hint to know the answer
+# The first two elements (city-name and region) must be given
+Canberra;Australia,Australian Capital Territory;1400,1600;Southern Hemisphere;False
+Sydney;Australia,New South Wales;1350,1500;Not South Africa;False
+Melbourne;Australia,Victoria;1350,1500;Not Europe;False
+Brisbane;Australia,Queensland;1400,1550;Not Europe;False
+Adelaide;Australia,South Australia;1400,1600;Not Europe;False
+Perth;Australia,Western Australia;1400,1550;Not UK;True
+Montgomery;United States of America,Alabama;1650,1750;Not Asia;False
+Juneau;United States of America,Alaska;1550,1650;Not Asia;False
+Phoenix;United States of America,Arizona;1500,1600;Not Asia;False
+Little Rock;United States of America,Arkansas;1650,1750;Not Asia;False
+Sacramento;United States of America,California;1550,1650;Not Asia;False
+Denver;United States of America,Colorado;1500,1600;Not Asia;False
+Hartford;United States of America,Connecticut;1650,1750;Not Asia;False
+Dover;United States of America,Delaware;1700,1800;Not Europe;True
+Tallahassee;United States of America,Florida;1600,1750;Not Europe;False
+Atlanta;United States of America,Georgia;1500,1650;Not Europe;False
+Honolulu;United States of America,Hawaii;1550,1650;Not Europe;False
+Boise;United States of America,Idaho;1600,1700;Not Africa;False
+Springfield;United States of America,Illinois;1700,1800;Regional Capital;False
+Indianapolis;United States of America,Indiana;1550,1650;Not Africa;False
+Des Moines;United States of America,Iowa;1600,1750;Not Europe;False
+Topeka;United States of America,Kansas;1650,1750;Not Europe;False
+Frankfort;United States of America,Kentucky;1700,1800;Not Africa;False
+Baton Rouge;United States of America,Louisiana;1600,1700;Not Africa;False
+Augusta;United States of America,Maine;1700,1800;Not Africa;False
+Annapolis;United States of America,Maryland;1650,1750;Not Africa;False
+Boston;United States of America,Massachusetts;1450,1650;Not Africa;False
+Lansing;United States of America,Michigan;1650,1750;Not Africa;False
+Saint Paul;United States of America,Minnesota;1650,1750;Not Europe;False
+Jackson;United States of America,Mississippi;1650,1750;Not Europe;False
+Jefferson City;United States of America,Missouri;1550,1750;Not Europe;False
+Helena;United States of America,Montana;1700,1800;Not Europe;False
+Lincoln;United States of America,Nebraska;1550,1750;Not Europe;False
+Carson City;United States of America,Nevada;1700,1800;Not Asia;False
+Concord;United States of America,New Hampshire;1650,1750;Not Asia;False
+Trenton;United States of America,New Jersey;1700,1800;Not Asia;False
+Santa Fe;United States of America,New Mexico;1700,1800;Not South America;True
+Albany;United States of America,New York;1700,1800;Region Capital;True
+Raleigh;United States of America,North Carolina;1600,1700;Not Europe;False
+Bismarck;United States of America,North Dakota;1650,1750;Not Europe;False
+Columbus;United States of America,Ohio;1550,1750;Not Europe;False
+Oklahoma City;United States of America,Oklahoma;1500,1550;Not Europe;False
+Salem;United States of America,Oregon;1650,1750;Not Europe;False
+Harrisburg;United States of America,Pennsylvania;1600,1700;Not Europe;False
+Providence;United States of America,Rhode Island;1600,1700;Not Europe;False
+Columbia;United States of America,South Carolina;1550,1750;Not Europe;False
+Pierre;United States of America,South Dakota;1700,1800;Not an island;True
+Nashville;United States of America,Tennessee;1550,1650;Not Europe;False
+Austin;United States of America,Texas;1550,1650;Not Europe;False
+Salt Lake City;United States of America,Utah;1550,1650;Not Europe;False
+Montpelier;United States of America,Vermont;1650,1750;Not Europe;True
+Richmond;United States of America,Virginia;1650,1750;Region Capital;True
+Olympia;United States of America,Washington;1650,1750;Not Europe;False
+Charleston;United States of America,West Virginia;1650,1750;Not Europe;False
+Madison;United States of America,Wisconsin;1600,1700;Not Europe;False
+Cheyenne;United States of America,Wyoming;1650,1750;Not Europe;False
+Kabul;Afghanistan;1550;Not Africa;False
+Tirana;Albania;1550;Not India;False
+Algiers;Algeria;1450;Not Europe;False
+Luanda;Angola;1550;Not South America;False
+Saint John's;Antigua and Barbuda;1800;Not Canada;True
+Buenos Aires;Argentina;1500;Not Africa;False
+Yerevan;Armenia;1600;Not South America;False
+Vienna;Austria;1450;Not Canada;False
+Baku;Azerbaijan;1650;Not Southern Africa;False
+Nassau;Bahamas;1700;Not Europe;False
+Manama;Bahrain;1750;Not Africa;False
+Dhaka;Bangladesh;1500;Not South America;False
+Bridgetown;Barbados;1750;Not UK;False
+Minsk;Belarus;1550;Europe;False
+Brussels;Belgium;1450;Not Africa;False
+Belmopan;Belize;1650;Country Capital;False
+Porto Novo;Benin;1700;Not Europe;False
+Thimphu;Bhutan;1700;Not South America;False
+La Paz;Bolivia;1500;Capital City;True
+Sarajevo;Bosnia and Herzegovina;1550;Europe;False
+Gaborone;Botswana;1550;Africa;False
+Brasilia;Brazil;1350;Not Europe;False
+Bandar Seri Begawan;Brunei;1600;Not Europe;False
+Sofia;Bulgaria;1550;Country Capital;False
+Ouagadougou;Burkina Faso;1650;Africa;False
+Bujumbura;Burundi;1700;Africa;False
+Phnom Penh;Cambodia;1550;Not Europe;False
+Yaoundé;Cameroon;1650;Not Europe;False
+Ottawa;Canada,Ontario;1500;Not Asia;False
+Praia;Cape Verde;1700;Not Asia;False
+Bangui;Central African Republic;1650;Not Europe;False
+N'Djamena;Chad;1600;Country Capital;False
+Santiago;Chile;1500;Country Capital;True
+Beijing;China;1350;Not Africa;False
+Bogota;Colombia;1500;Not Africa;False
+Moroni;Comoros;1700;Not Americas;False
+Kinshasa;Democratic Republic of the Congo;1650;Not Europe;False
+Brazzaville;Congo;1700;Not Europe;False
+San José;Costa Rica;1600;Country Capital;True
+Yamoussoukro;Ivory Coast;1650;Not South Americal;False
+Zagreb;Croatia;1500;Not Asia;False
+Havana;Cuba;1550;Not Europe;False
+Nicosia;Cyprus;1600;Not Americas;False
+Prague;Czechia;1450;Country Capital;False
+Copenhagen;Denmark;1450;Not Asia;False
+Djibouti;Djibouti;1500;Not Europe;False
+Roseau;Dominica;1700;Not Asia;False
+Santo Domingo;Dominican Republic;1600;Not Americas;False
+Dili;Timor Leste;1650;Not Europe;False
+Quito;Ecuador;1550;Not Asia;False
+Cairo;Egypt;1450;Not Americas;False
+San Salvador;El Salvador;1550;Not Asia;False
+London;United Kingdom;1350;Not Asia;False
+Malabo;Equatorial Guinea;1700;Not Americas;False
+Asmara;Eritrea;1650;Not Europe;False
+Tallinn;Estonia;1550;Not Americas;False
+Mbabane;Eswatini;1700;Not Asia;False
+Addis Ababa;Ethiopia;1600;Not Americas;False
+Palikir;Micronesia;1700;Not Americas;False
+Suva;Fiji;1600;Not Europe;False
+Helsinki;Finland;1500;Not Asia;False
+Paris;France;1350;Not Americas;False
+Libreville;Gabon;1650;Not Asia;False
+Banjul;The Gambia;1700;Not Europe;False
+Tbilisi;Georgia;1450;Not Americas;False
+Berlin;Germany;1400;Not Asia;False
+Accra;Ghana;1600;Not Americas;False
+Athens;Greece;1400;Not Americas;False
+St George's;Grenada;1700;Not Asia;False
+Guatemala City;Guatemala;1400;Not Asia;False
+Conakry;Guinea;1650;Not Americas;False
+Bissau;Guinea-Bissau;1600;Not Americas;False
+Georgetown;Guyana;1650;Nation Capital;True
+Port-au-Prince;Haiti;1650;Not Asia;False
+Tegucigalpa;Honduras;1600;Not Asia;False
+Budapest;Hungary;1500;Not Americas;False
+Reykjavik;Iceland;1500;Not Americas;False
+New Delhi;India;1450;Not Americas;False
+Jakarta;Indonesia;1450;Not Europe;False
+Tehran;Iran;1500;Not Americas;False
+Baghdad;Iraq;1500;Not Europe;False
+Dublin;Ireland;1450;Not Asia;False
+Jerusalem;Israel;1450;Not Americas;False
+Rome;Italy;1350;Not Americas;False
+Kingston;Jamaica;1600;Not Asia;False
+Tokyo;Japan;1350;Not Americas;False
+Amman;Jordan;1600;Not Asia;False
+Nur-Sultan;Kazakhstan;1600;Not Americas;False
+Astana;Kazakhstan;1600;Not Europe;False
+Nairobi;Kenya;1550;Not Asia;False
+Tarawa;Kiribati;1700;Not Americas;False
+Pristina;Kosovo;1650;Not Americas;False
+Kuwait City;Kuwait;1500;Not Europe;False
+Bishkek;Kyrgyzstan;1600;Not Americas;False
+Vientiane;Laos;1600;Not Europe;False
+Riga;Latvia;1550;Not Asia;False
+Beirut;Lebanon;1550;Not Americas;False
+Maseru;Lesotho;1650;Not Europe;False
+Monrovia;Liberia;1450;Not Asia;False
+Tripoli;Libya;1600;Not Americas;True
+Vaduz;Liechtenstein;1650;Not Americas;False
+Vilnius;Lithuania;1550;Not Americas;False
+Luxembourg City;Luxembourg;1500;Not Asia;False
+Antananarivo;Madagascar;1600;Not Americas;False
+Lilongwe;Malawi;1650;Not Europe;False
+Kuala Lumpur;Malaysia;1500;Not Europe;False
+Male;Maldives;1650;Not Americas;False
+Bamako;Mali;1650;Not Asia;False
+Valletta;Malta;1600;Not Americas;False
+Majuro;Marshall Islands;1700;Not Europe;False
+Nouakchott;Mauritania;1650;Not Asia;False
+Port Louis;Mauritius;1700;Not Americas;False
+Ciudad de Mexico;Mexico;1350;Not Asia;False
+Chișinău;Moldova;1600;Not Americas;False
+Monaco;Monaco;1500;Not Asia;False
+Ulaanbaatar;Mongolia;1550;Not Europe;False
+Podgorica;Montenegro;1600;Not Americas;False
+Rabat;Morocco;1550;Not Asia;False
+Maputo;Mozambique;1600;Not Americas;False
+Nay Pyi Taw;Myanmar;1650;Not Americas;False
+Naypyidaw;Myanmar;1650;Not Americas;False
+Windhoek;Namibia;1600;Not Asia;False
+Kathmandu;Nepal;1550;Not Americas;False
+Amsterdam;Netherlands;1400;Not Asia;False
+Wellington;New Zealand;1450;Asia-Pacific;True
+Managua;Nicaragua;1600;Not Asia;False
+Pyongyang;North Korea;1450;Not Europe;False
+Skopje;North Macedonia;1550;Not Asia;False
+Oslo;Norway;1450;Not Americas;False
+Muscat;Oman;1550;Not Americas;False
+Ngerulmud;Palau;1700;Not Americas;False
+Panama City;Panama;1450;Not Asia;False
+Port Moresby;Papua New Guinea;1550;Not Asia;False
+Asuncion;Paraguay;1550;Not Americas;False
+Lima;Peru;1500;Not Asia;False
+Manila;Philippines;1500;Not Americas;False
+Warsaw;Poland;1450;Not Americas;False
+Warszawa;Poland;1450;Not Americas;False
+Lisbon;Portugal;1400;Not Asia;False
+Doha;Qatar;1550;Not Europe;False
+Bucharest;Romania;1550;Not Asia;False
+Moscow;Russia;1350;Not Americas;False
+Kigali;Rwanda;1600;Not Americas;False
+Basseterre;Saint Kitts and Nevis;1700;Not Asia;False
+Castries;Saint Lucia;1700;Not Asia;False
+Kingstown;Saint Vincent and the Grenadines;1700;Not Europe;False
+Apia;Samoa;1650;Not Asia;False
+San Marino;San Marino;1500;Not Americas;False
+Sao Tome;São Tomé and Príncipe;1600;Not Americas;False
+Riyadh;Saudi Arabia;1450;Not Americas;False
+Dakar;Senegal;1600;Not Europe;False
+Belgrade;Serbia;1500;Not Americas;False
+Beograd;Serbia;1500;Not Asia;False
+Victoria;Seychelles;1700;Nation Capital;True
+Freetown;Sierra Leone;1650;Not Americas;False
+Singapore;Singapore;1400;Not Europe;False
+Bratislava;Slovakia;1500;Not Americas;False
+Ljubljana;Slovenia;1550;Not Asia;False
+Honiara;Solomon Islands;1600;Not Americas;False
+Mogadishu;Somalia;1550;Not Asia;False
+Pretoria;South Africa;1500;Not Europe;False
+Bloemfontein;South Africa;1500;Not Americas;False
+Cape Town;South Africa;1500;Not Americas;False
+Seoul;South Korea;1450;Not Americas;False
+Juba;South Sudan;1750;Not Asia;False
+Madrid;Spain;1350;Not Americas;False
+Colombo;Sri Lanka;1550;Not Americas;False
+Khartoum;Sudan;1600;Not Asia;False
+Paramaribo;Suriname;1650;Not Asia;False
+Stockholm;Sweden;1400;Not Americas;False
+Bern;Switzerland;1500;Not Americas;False
+Damascus;Syria;1550;Not Europe;False
+Taipei;Taiwan;1500;Not Americas;False
+Dushanbe;Tajikistan;1650;Not Americas;False
+Dodoma;Tanzania;1600;Not Americas;False
+Dar es Salaam;Tanzania;1600;Not Asia;False
+Bangkok;Thailand;1450;Not Europe;False
+Lomé;Togo;1700;Not Americas;False
+Nuku'alofa;Tonga;1700;Not Asia;False
+Port of Spain;Trinidad and Tobago;1700;Not Asia;False
+Tunis;Tunisia;1500;Not Europe;False
+Ankara;Turkey;1500;Not Americas;False
+Ashgabat;Turkmenistan;1600;Not Americas;False
+Funafuti;Tuvalu;1700;Not Asia;False
+Kampala;Uganda;1600;Not Asia;False
+Kiev;Ukraine;1500;Not Americas;False
+Abu Dhabi;United Arab Emirates;1550;Not Americas;False
+Washington D.C.;United States;1300;Not Asia;False
+Montevideo;Uruguay;1550;Not Europe;False
+Tashkent;Uzbekistan;1600;Not Americas;False
+Port Vila;Vanuatu;1700;Not Asia;False
+Vatican City;Vatican City;1450;Not Asia;False
+Caracas;Venezuela;1550;Not Asia;False
+Hanoi;Vietnam;1500;Not Europe;False
+Sana'a;Yemen;1650;Not Americas;False
+Lusaka;Zambia;1650;Not Asia;False
+Harare;Zimbabwe;1650;Not Europe;False
+Rebun;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rishirifuji;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Wakkanai;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Sarufutsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Toyotomi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Horonobe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hamatombetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Teshio;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Nakatombetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Esashi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Embetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Nakagawa;Japan,Hokkaido;1600,2100;Not Honshu;True
+Otoineppu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shosambetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Haboro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Tomamae;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Obira;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rumoi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Mashike;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Bifuka;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Nayoro;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Kembushi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Wassamu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Pippu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Asahikawa;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Kamikawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Higashikawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Biei;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kamifurano;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Furano;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Minamifurano;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shimukappu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Chippubetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Fukagawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Takikawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Sunagawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Bibai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Mikasa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Iwamizawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kuriyama;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Yubari;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Naganuma;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kitahiroshima;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Ebetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Ishikari;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Sapporo;Japan,Hokkaido;1500,1600;Not Nation Captial;False
+Otaru;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Yoichi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shakotan;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kamoenai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Tomari;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Iwanai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Akaigawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kutchan;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Niseko;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rankoshi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Suttsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kuromatsunai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shimamaki;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Oshamambe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Imakane;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Setana;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Yakumo;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Okushiri;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Otobe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Assabu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kaminokuni;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Matsumae;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Fukushima;Japan,Hokkaido;1600,2100;Not Honshu;True
+Shiriuchi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kikonai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hakodate;Japan,Hokkaido;1600,1800;Not Region Captial;False
+Nanae;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shikabe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Mori;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Toyako;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Date;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Sobetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rusutsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Muroran;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Noboribetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shiraoi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Tomakomai;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Chitose;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Abira;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Atsuma;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Mukawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Biratori;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hidaka;Japan,Hokkaido;1600,2100;Not Honshu;True
+Shinhidaka;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Urakawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Samani;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Erimo;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hiroo;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Taiki;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Sarabetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Memuro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Obihiro;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Otofuke;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shikaoi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shintoku;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Makubetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Toyokoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Urahoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shihoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kamishihoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Ashoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hombetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rikubetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Oketo;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kunneppu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kitami;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Tsubetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Bihoro;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Ozora;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Abashiri;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Saroma;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Engaru;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Tubetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Mombetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Okoppe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Nishikoppe;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shimokawa;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Omu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Koshimizu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kiyosato;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shari;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Rausu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shibetsu;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Nakashibetsu;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Teshikaga;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shibecha;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Tsuru;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Shiranuku;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Kushiro;Japan,Hokkaido;1900,2100;Not Region Captial;False
+Akkeshi;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Hamanaka;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Betsukai;Japan,Hokkaido;1600,2100;Not Region Captial;False
+Nemuro;Japan,Hokkaido;1600,1900;Not Region Captial;False
+Aomori;Japan,Aomori;1600,1750;Not Nation Captial;False
+Tsugaru;Japan,Aomori;1600,1900;Not Region Captial;False
+Hirosaki;Japan,Aomori;1600,1900;Not Region Captial;False
+Towada;Japan,Aomori;1600,1900;Not Region Captial;False
+Misawa;Japan,Aomori;1600,1900;Not Region Captial;False
+Hachinohe;Japan,Aomori;1600,1900;Not Region Captial;False
+Mutsu;Japan,Aomori;1600,1900;Not Region Captial;False
+Higashidori;Japan,Aomori;1600,1900;Not Region Captial;False
+Kazamaura;Japan,Aomori;1600,1900;Not Region Captial;False
+Oma;Japan,Aomori;1600,1900;Not Region Captial;False
+Fukaura;Japan,Aomori;1600,2100;Not Region Captial;False
+Ajigasawa;Japan,Aomori;1600,2100;Not Region Captial;False
+Goshogawara;Japan,Aomori;1600,2100;Not Region Captial;False
+Sotogahama;Japan,Aomori;1600,2100;Not Region Captial;False
+Yomogita;Japan,Aomori;1600,2100;Not Region Captial;False
+Kuroishi;Japan,Aomori;1600,2100;Not Region Captial;False
+Hirakawa;Japan,Aomori;1600,2100;Not Region Captial;False
+Hiranai;Japan,Aomori;1600,2100;Not Region Captial;False
+Sai;Japan,Aomori;1600,2100;Not Region Captial;False
+Yokohama;Japan,Aomori;1600,2100;North of Sendai;True
+Rokkasho;Japan,Aomori;1600,2100;Not Region Captial;False
+Noheji;Japan,Aomori;1600,2100;Not Region Captial;False
+Shichinohe;Japan,Aomori;1600,2100;Not Region Captial;False
+Oirase;Japan,Aomori;1600,2100;Not Region Captial;False
+Takko;Japan,Aomori;1600,2100;Not Region Captial;False
+Sannohe;Japan,Aomori;1600,2100;Not Region Captial;False
+Hashikami;Japan,Aomori;1600,2100;Not Region Captial;False
+Akita;Japan,Akita;1600,1750;Not Nation Captial;False
+Noshiro;Japan,Akita;1600,1900;Not Region Captial;False
+Odate;Japan,Akita;1600,1900;Not Region Captial;False
+Kazuno;Japan,Akita;1600,1900;Not Region Captial;False
+Kitaakita;Japan,Akita;1600,1900;Not Region Captial;False
+Oga;Japan,Akita;1600,1900;Not Region Captial;False
+Daisen;Japan,Akita;1600,1900;Not Region Captial;False
+Yurihonjo;Japan,Akita;1600,1900;Not Region Captial;False
+Yokote;Japan,Akita;1600,1900;Not Region Captial;False
+Nikaho;Japan,Akita;1600,1900;Not Region Captial;False
+Happo;Japan,Akita;1600,2100;Not Region Captial;False
+Mitane;Japan,Akita;1600,2100;Not Region Captial;False
+Katagami;Japan,Akita;1600,2100;Not Region Captial;False
+Gojome;Japan,Akita;1600,2100;Not Region Captial;False
+Kamikoani;Japan,Akita;1600,2100;Not Region Captial;False
+Fujisato;Japan,Akita;1600,2100;Not Region Captial;False
+Kosaka;Japan,Akita;1600,2100;Not Region Captial;False
+Semboku;Japan,Akita;1600,2100;Not Region Captial;False
+Misato;Japan,Akita;1600,2100;Not Saitama;True
+Ugo;Japan,Akita;1600,2100;Not Region Captial;False
+Yuzawa;Japan,Akita;1600,2100;Not Niigata;True
+Higashinaruse;Japan,Akita;1600,2100;Not Region Captial;False
+Morioka;Japan,Iwate;1600,1750;Not Nation Captial;False
+Kuji;Japan,Iwate;1600,1900;Not Region Captial;False
+Iwaizumi;Japan,Iwate;1600,1900;Not Region Captial;False
+Miyako;Japan,Iwate;1600,1900;Not Region Captial;False
+Yamada;Japan,Iwate;1600,1900;Not Region Captial;False
+Otsuchi;Japan,Iwate;1600,1900;Not Region Captial;False
+Kamaishi;Japan,Iwate;1600,1900;Not Region Captial;False
+Hachimantai;Japan,Iwate;1600,1900;Not Region Captial;False
+Yahaba;Japan,Iwate;1600,1900;Not Region Captial;False
+Hanamaki;Japan,Iwate;1600,1900;Not Region Captial;False
+Kitakami;Japan,Iwate;1600,1900;Not Region Captial;False
+Ichinoseki;Japan,Iwate;1600,1900;Not Region Captial;False
+Karumai;Japan,Iwate;1600,2100;Not Region Captial;False
+Ninohe;Japan,Iwate;1600,2100;Not Region Captial;False
+Kunohe;Japan,Iwate;1600,2100;Not Region Captial;False
+Ichinohe;Japan,Iwate;1600,2100;Not Region Captial;False
+Hirono;Japan,Iwate;1600,2100;Not Fukushima;True
+Noda;Japan,Iwate;1600,2100;Not Chiba;True
+Fudai;Japan,Iwate;1600,2100;Not Region Captial;False
+Tanohata;Japan,Iwate;1600,2100;Not Region Captial;False
+Tōno;Japan,Iwate;1600,2100;Not Region Captial;False
+Sumita;Japan,Iwate;1600,2100;Not Region Captial;False
+Rikuzentakata;Japan,Iwate;1600,2100;Not Region Captial;False
+Kuzumaki;Japan,Iwate;1600,2100;Not Region Captial;False
+Iwate;Japan,Iwate;1600,2100;Not Region Captial;False
+Shiwa;Japan,Iwate;1600,2100;Not Region Captial;False
+Nishiwaga;Japan,Iwate;1600,2100;Not Region Captial;False
+Oshu;Japan,Iwate;1600,2100;Not Region Captial;False
+Yamagata;Japan,Yamagata;1600,1750;Not Nation Captial;False
+Sakata;Japan,Yamagata;1600,1900;Not Region Captial;False
+Tsuruoka;Japan,Yamagata;1600,1900;Not Region Captial;False
+Shinjō;Japan,Yamagata;1600,1900;Not Region Captial;False
+Yuza;Japan,Yamagata;1600,2100;Not Region Captial;False
+Mikawa;Japan,Yamagata;1600,2100;Not Region Captial;False
+Mamurogawa;Japan,Yamagata;1600,2100;Not Region Captial;False
+Mogami;Japan,Yamagata;1600,2100;Not Region Captial;False
+Tozawa;Japan,Yamagata;1600,2100;Not Region Captial;False
+Obanazawa;Japan,Yamagata;1600,2100;Not Region Captial;False
+Sagae;Japan,Yamagata;1600,2100;Not Region Captial;False
+Tendō;Japan,Yamagata;1600,2100;Not Region Captial;False
+Kaminoyama;Japan,Yamagata;1600,2100;Not Region Captial;False
+Nagai;Japan,Yamagata;1600,2100;Not Region Captial;False
+Nanyō;Japan,Yamagata;1600,2100;Not Region Captial;False
+Takahata;Japan,Yamagata;1600,2100;Not Region Captial;False
+Yonezawa;Japan,Yamagata;1600,2100;Not Region Captial;False
+Oguni;Japan,Yamagata;1600,2100;Not Region Captial;False
+Sendai;Japan,Miyagi;1600,1750;Not Nation Captial;False
+Kesennuma;Japan,Miyagi;1600,1900;Not Nation Captial;False
+Ishinomaki;Japan,Miyagi;1600,1900;Not Nation Captial;False
+Natori;Japan,Miyagi;1600,1900;Not Nation Captial;False
+Minamisanriku;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Onagawa;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Higashimatsushima;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Rifu;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Tome;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Kurihara;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Ōsaki;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Kami;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Iwanuma;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Watari;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Shiroishi;Japan,Miyagi;1600,2100;Not Nation Captial;False
+Fukushima;Japan,Fukushima;1500,1750;Region Captial;True
+Soma;Japan,Fukushima;1600,1900;Not Region Captial;False
+Minamisōma;Japan,Fukushima;1600,1900;Not Region Captial;False
+Iwaki;Japan,Fukushima;1600,1900;Not Region Captial;False
+Nihommatsu;Japan,Fukushima;1600,1900;Not Region Captial;False
+Koriyama;Japan,Fukushima;1600,1900;Not Region Captial;False
+Sukagawa;Japan,Fukushima;1600,1900;Not Region Captial;False
+Aizuwakamatsu;Japan,Fukushima;1600,1900;Not Region Captial;False
+Namie;Japan,Fukushima;1600,2100;Not Region Captial;False
+Tomioka;Japan,Fukushima;1600,2100;Not Gunma;True
+Naraha;Japan,Fukushima;1600,2100;Not Region Captial;False
+Hirono;Japan,Fukushima;1600,2100;Not Iwate;True
+Motomiya;Japan,Fukushima;1600,2100;Not Region Captial;False
+Tamura;Japan,Fukushima;1600,2100;Not Region Captial;False
+Nishigō;Japan,Fukushima;1600,2100;Not Region Captial;False
+Shirakawa;Japan,Fukushima;1600,2100;Not Gifu;True
+Tanagura;Japan,Fukushima;1600,2100;Not Region Captial;False
+Hanawa;Japan,Fukushima;1600,2100;Not Region Captial;False
+Yamatsuri;Japan,Fukushima;1600,2100;Not Region Captial;False
+Inawashiro;Japan,Fukushima;1600,2100;Not Region Captial;False
+Kitakata;Japan,Fukushima;1600,2100;Not Region Captial;False
+Mishima;Japan,Fukushima;1600,2100;Not Shizuoka;True
+Kaneyama;Japan,Fukushima;1600,2100;Not Region Captial;False
+Tadami;Japan,Fukushima;1600,2100;Not Region Captial;False
+Showa;Japan,Fukushima;1600,2100;Not Yamanashi;True
+Shimogo;Japan,Fukushima;1600,2100;Not Region Captial;False
+Minamiaizu;Japan,Fukushima;1600,2100;Not Region Captial;False
+Hinoemata;Japan,Fukushima;1600,2100;Not Region Captial;False
+Niigata;Japan,Niigata;1550,1750;Not Nation Captial;False
+Murakami;Japan,Niigata;1600,1900;Not Region Captial;False
+Shibata;Japan,Niigata;1600,1900;Not Region Captial;False
+Tsubame;Japan,Niigata;1600,1900;Not Region Captial;False
+Nagaoka;Japan,Niigata;1600,1900;Not Region Captial;False
+Minamiuonuma;Japan,Niigata;1600,1900;Not Region Captial;False
+Joetsu;Japan,Niigata;1600,1900;Not Region Captial;False
+Itoigawa;Japan,Niigata;1600,1900;Not Region Captial;False
+Awashimaura;Japan,Niigata;1600,2100;Not Region Captial;False
+Sado;Japan,Niigata;1600,2100;Not Region Captial;False
+Sekikawa;Japan,Niigata;1600,2100;Not Region Captial;False
+Tainai;Japan,Niigata;1600,2100;Not Region Captial;False
+Agano;Japan,Niigata;1600,2100;Not Region Captial;False
+Aga;Japan,Niigata;1600,2100;Not Region Captial;False
+Gosen;Japan,Niigata;1600,2100;Not Region Captial;False
+Kamo;Japan,Niigata;1600,2100;Not Region Captial;False
+Sanjo;Japan,Niigata;1600,2100;Not Region Captial;False
+Mitsuke;Japan,Niigata;1600,2100;Not Region Captial;False
+Izumozaki;Japan,Niigata;1600,2100;Not Region Captial;False
+Kashiwazaki;Japan,Niigata;1600,2100;Not Region Captial;False
+Ojiya;Japan,Niigata;1600,2100;Not Region Captial;False
+Uonuma;Japan,Niigata;1600,2100;Not Region Captial;False
+Yuzawa;Japan,Niigata;1600,2100;Not Akita;True
+Tsunan;Japan,Niigata;1600,2100;Not Region Captial;False
+Myoko;Japan,Niigata;1600,2100;Not Region Captial;False
+Mito;Japan,Ibaraki;1550,1750;Not Nation Captial;False
+Hitachinaka;Japan,Ibaraki;1600,1900;Not Region Captial;False
+Tsukuba;Japan,Ibaraki;1600,1900;Not Region Captial;False
+Kitaibaraki;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Takahagi;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Hitachi;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Daigo;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Hitachiota;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Hitachioyima;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Tokai;Japan,Ibaraki;1600,2100;Not Aichi;True
+Naka;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Shirosato;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Oarai;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Kasama;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Ibaraki;Japan,Ibaraki;1600,2100;Not Osaka;True
+Omitama;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Ishioka;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Hokota;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Namegata;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Itako;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Kashima;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Kamisu;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Choshi;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Inashiki;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Ryugasaki;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Miho;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Ami;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Ushiku;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Tsuchiura;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Toride;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Moriye;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Joso;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Bando;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Yachiyo;Japan,Ibaraki;1600,2100;Not Chiba;True
+Shimotsuma;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Koga;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Yuki;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Chikusei;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Sakuragawa;Japan,Ibaraki;1600,2100;Not Region Captial;False
+Utsunomiya;Japan,Tochigi;1550,1750;Not Nation Captial;False
+Nasushiobara;Japan,Tochigi;1600,1900;Not Region Captial;False
+Otawara;Japan,Tochigi;1600,1900;Not Region Captial;False
+Nikko;Japan,Tochigi;1600,1900;Not Region Captial;False
+Kanuma;Japan,Tochigi;1600,1900;Not Region Captial;False
+Tochigi;Japan,Tochigi;1600,1900;Not Region Captial;False
+Oyama;Japan,Tochigi;1600,1900;Not Region Captial;False
+Sano;Japan,Tochigi;1600,1900;Not Region Captial;False
+Ashikaga;Japan,Tochigi;1600,1900;Not Region Captial;False
+Nasu;Japan,Tochigi;1600,2100;Not Region Captial;False
+Nakagawa;Japan,Tochigi;1600,2100;Not Hokkaido;True
+Yaita;Japan,Tochigi;1600,2100;Not Region Captial;False
+Shioya;Japan,Tochigi;1600,2100;Not Region Captial;False
+Sakura;Japan,Tochigi;1600,2100;Not Chiba;True
+Nasukarasuyama;Japan,Tochigi;1600,2100;Not Region Captial;False
+Takanezawa;Japan,Tochigi;1600,2100;Not Region Captial;False
+Haga;Japan,Tochigi;1600,2100;Not Region Captial;False
+Motegi;Japan,Tochigi;1600,2100;Not Region Captial;False
+Ichikai;Japan,Tochigi;1600,2100;Not Region Captial;False
+Mashiko;Japan,Tochigi;1600,2100;Not Region Captial;False
+Moka;Japan,Tochigi;1600,2100;Not Region Captial;False
+Kaminokawa;Japan,Tochigi;1600,2100;Not Region Captial;False
+Shimotsuke;Japan,Tochigi;1600,2100;Not Region Captial;False
+Mibu;Japan,Tochigi;1600,2100;Not Region Captial;False
+Nogi;Japan,Tochigi;1600,2100;Not Region Captial;False
+Chiba;Japan,Chiba;1550,1700;Not Nation Captial;False
+Kashiwa;Japan,Chiba;1600,1900;Not Region Captial;False
+Narita;Japan,Chiba;1600,1900;Not Region Captial;False
+Togane;Japan,Chiba;1600,1900;Not Region Captial;False
+Ichihara;Japan,Chiba;1600,1900;Not Region Captial;False
+Mobara;Japan,Chiba;1600,1900;Not Region Captial;False
+Isumi;Japan,Chiba;1600,1900;Not Region Captial;False
+Katsuura;Japan,Chiba;1600,1900;Not Region Captial;False
+Kimitsu;Japan,Chiba;1600,1900;Not Region Captial;False
+Futtsu;Japan,Chiba;1600,1900;Not Region Captial;False
+Kamogawa;Japan,Chiba;1600,1900;Not Region Captial;False
+Tateyama;Japan,Chiba;1600,1900;Not Region Captial;False
+Noda;Japan,Chiba;1600,2100;Not Iwate;True
+Abiko;Japan,Chiba;1600,2100;Not Region Captial;False
+Inzai;Japan,Chiba;1600,2100;Not Region Captial;False
+Funabashi;Japan,Chiba;1600,2100;Not Region Captial;False
+Narashino;Japan,Chiba;1600,2100;Not Region Captial;False
+Yachiyo;Japan,Chiba;1600,2100;Not Ibaraki;True
+Yotsukaido;Japan,Chiba;1600,2100;Not Region Captial;False
+Sakura;Japan,Chiba;1600,2100;Not Tochigi;True
+Tomisato;Japan,Chiba;1600,2100;Not Region Captial;False
+Yachimara;Japan,Chiba;1600,2100;Not Region Captial;False
+Kozaki;Japan,Chiba;1600,2100;Not Region Captial;False
+Katori;Japan,Chiba;1600,2100;Not Region Captial;False
+Tonosho;Japan,Chiba;1600,2100;Not Region Captial;False
+Asahi;Japan,Chiba;1600,2100;Not Toyama;True
+Sosa;Japan,Chiba;1600,2100;Not Region Captial;False
+Sammu;Japan,Chiba;1600,2100;Not Region Captial;False
+Kujukuri;Japan,Chiba;1600,2100;Not Region Captial;False
+Oamishirasato;Japan,Chiba;1600,2100;Not Region Captial;False
+Chonan;Japan,Chiba;1600,2100;Not Region Captial;False
+Ichinomiya;Japan,Chiba;1600,2100;Not Aichi;True
+Otaki;Japan,Chiba;1600,2100;Not Region Captial;False
+Minamiboiso;Japan,Chiba;1600,2100;Not Region Captial;False
+Kyonan;Japan,Chiba;1600,2100;Not Region Captial;False
+Kisarazu;Japan,Chiba;1600,2100;Not Region Captial;False
+Sodegaura;Japan,Chiba;1600,2100;Not Region Captial;False
+Maebashi;Japan,Gunma;1550,1800;Not Nation Captial;False
+Takasaki;Japan,Gunma;1600,1900;Not Region Captial;False
+Isesaki;Japan,Gunma;1600,1900;Not Region Captial;False
+Katashina;Japan,Gunma;1600,2100;Not Region Captial;False
+Kawaba;Japan,Gunma;1600,2100;Not Region Captial;False
+Numata;Japan,Gunma;1600,2100;Not Region Captial;False
+Nakanojo;Japan,Gunma;1600,2100;Not Region Captial;False
+Naganohara;Japan,Gunma;1600,2100;Not Region Captial;False
+Shibukawa;Japan,Gunma;1600,2100;Not Region Captial;False
+Ota;Japan,Gunma;1600,2100;Not Tokyo;True
+Ueno;Japan,Gunma;1600,2100;Not Region Captial;False
+Yoshioka;Japan,Gunma;1600,2100;Not Region Captial;False
+Shinto;Japan,Gunma;1600,2100;Not Region Captial;False
+Annaka;Japan,Gunma;1600,2100;Not Region Captial;False
+Tomioka;Japan,Gunma;1600,2100;Not Fukushima;True
+Shimonita;Japan,Gunma;1600,2100;Not Region Captial;False
+Kanra;Japan,Gunma;1600,2100;Not Region Captial;False
+Fujioka;Japan,Gunma;1600,2100;Not Region Captial;False
+Midori;Japan,Gunma;1600,2100;Not Region Captial;False
+Kiryu;Japan,Gunma;1600,2100;Not Region Captial;False
+Tatebayashi;Japan,Gunma;1600,2100;Not Region Captial;False
+Itakura;Japan,Gunma;1600,2100;Not Region Captial;False
+Saitama;Japan,Saitama;1550,1700;Not Nation Captial;False
+Ogano;Japan,Saitama;1600,1900;Not Region Captial;False
+Chichibu;Japan,Saitama;1600,1900;Not Region Captial;False
+Fukaya;Japan,Saitama;1600,1900;Not Region Captial;False
+Yokoze;Japan,Saitama;1600,2100;Not Region Captial;False
+Minano;Japan,Saitama;1600,2100;Not Region Captial;False
+Nagatoro;Japan,Saitama;1600,2100;Not Region Captial;False
+Yorii;Japan,Saitama;1600,2100;Not Region Captial;False
+Kamisato;Japan,Saitama;1600,2100;Not Region Captial;False
+Honjo;Japan,Saitama;1600,2100;Not Region Captial;False
+Kumagaya;Japan,Saitama;1600,2100;Not Region Captial;False
+Ogawa;Japan,Saitama;1600,2100;Not Region Captial;False
+Namegawa;Japan,Saitama;1600,2100;Not Region Captial;False
+Higashimatsuyama;Japan,Saitama;1600,2100;Not Region Captial;False
+Gyoda;Japan,Saitama;1600,2100;Not Region Captial;False
+Hanyu;Japan,Saitama;1600,2100;Not Region Captial;False
+Kazo;Japan,Saitama;1600,2100;Not Region Captial;False
+Kuki;Japan,Saitama;1600,2100;Not Region Captial;False
+Satte;Japan,Saitama;1600,2100;Not Region Captial;False
+Kasukabe;Japan,Saitama;1600,2100;Not Region Captial;False
+Koshigaya;Japan,Saitama;1600,2100;Not Region Captial;False
+Ageo;Japan,Saitama;1600,2100;Not Region Captial;False
+Kawagoe;Japan,Saitama;1600,2100;Not Region Captial;False
+Sayama;Japan,Saitama;1600,2100;Not Region Captial;False
+Hanno;Japan,Saitama;1600,2100;Not Region Captial;False
+Iruma;Japan,Saitama;1600,2100;Not Region Captial;False
+Tokorozawa;Japan,Saitama;1600,2100;Not Region Captial;False
+Ogose;Japan,Saitama;1600,2100;Not Region Captial;False
+Moroyama;Japan,Saitama;1600,2100;Not Region Captial;False
+Hidaka;Japan,Saitama;1600,2100;Not Hokkaido;True
+Tsurugashima;Japan,Saitama;1600,2100;Not Region Captial;False
+Fujimino;Japan,Saitama;1600,2100;Not Region Captial;False
+Fujimi;Japan,Saitama;1600,2100;Not Region Captial;False
+Shiki;Japan,Saitama;1600,2100;Not Region Captial;False
+Niiza;Japan,Saitama;1600,2100;Not Region Captial;False
+Wako;Japan,Saitama;1600,2100;Not Region Captial;False
+Asaka;Japan,Saitama;1600,2100;Not Region Captial;False
+Warabi;Japan,Saitama;1600,2100;Not Region Captial;False
+Toda;Japan,Saitama;1600,2100;Not Region Captial;False
+Kawagushi;Japan,Saitama;1600,2100;Not Region Captial;False
+Soka;Japan,Saitama;1600,2100;Not Region Captial;False
+Yashio;Japan,Saitama;1600,2100;Not Region Captial;False
+Misato;Japan,Saitama;1600,2100;Not Akita;True
+Yoshikawa;Japan,Saitama;1600,2100;Not Region Captial;False
+Matsubashi;Japan,Saitama;1600,2100;Not Region Captial;False
+Hachioji;Japan,Tokyo;1600,1900;Not Region Captial;False
+Okutama;Japan,Tokyo;1600,2100;Not Region Captial;False
+Hinohara;Japan,Tokyo;1600,2100;Not Region Captial;False
+Ome;Japan,Tokyo;1600,2100;Not Region Captial;False
+Tachikawa;Japan,Tokyo;1600,2100;Not Region Captial;False
+Fuchu;Japan,Tokyo;1600,2100;Not Region Captial;False
+Shinjuku;Japan,Tokyo;1600,2100;Not Region Captial;False
+Shibuya;Japan,Tokyo;1600,2100;Not Region Captial;False
+Minato;Japan,Tokyo;1600,2100;Not Region Captial;False
+Adachi;Japan,Tokyo;1600,2100;Not Region Captial;False
+Hamura;Japan,Tokyo;1600,2100;Not Region Captial;False
+Hinode;Japan,Tokyo;1600,2100;Not Region Captial;False
+Akiruno;Japan,Tokyo;1600,2100;Not Region Captial;False
+Fussa;Japan,Tokyo;1600,2100;Not Region Captial;False
+Akishima;Japan,Tokyo;1600,2100;Not Region Captial;False
+Hino;Japan,Tokyo;1600,2100;Not Region Captial;False
+Machida;Japan,Tokyo;1600,2100;Not Region Captial;False
+Tama;Japan,Tokyo;1600,2100;Not Region Captial;False
+Inagi;Japan,Tokyo;1600,2100;Not Region Captial;False
+Kokubunji;Japan,Tokyo;1600,2100;Not Region Captial;False
+Kodaira;Japan,Tokyo;1600,2100;Not Region Captial;False
+Higashimurayama;Japan,Tokyo;1600,2100;Not Region Captial;False
+Nishitokyo;Japan,Tokyo;1600,2100;Not Region Captial;False
+Higashikurume;Japan,Tokyo;1600,2100;Not Region Captial;False
+Kiyose;Japan,Tokyo;1600,2100;Not Region Captial;False
+Chofu;Japan,Tokyo;1600,2100;Not Region Captial;False
+Komae;Japan,Tokyo;1600,2100;Not Region Captial;False
+Mitaka;Japan,Tokyo;1600,2100;Not Region Captial;False
+Musashino;Japan,Tokyo;1600,2100;Not Region Captial;False
+Setagaya;Japan,Tokyo;1600,2100;Not Region Captial;False
+Suginami;Japan,Tokyo;1600,2100;Not Region Captial;False
+Nerima;Japan,Tokyo;1600,2100;Not Region Captial;False
+Ota;Japan,Tokyo;1600,2100;Not Gunma;True
+Shinagawa;Japan,Tokyo;1600,2100;Not Region Captial;False
+Toshima;Japan,Tokyo;1600,2100;Not Region Captial;False
+Itabashi;Japan,Tokyo;1600,2100;Not Region Captial;False
+Taito;Japan,Tokyo;1600,2100;Not Region Captial;False
+Koto;Japan,Tokyo;1600,2100;Not Region Captial;False
+Edogawa;Japan,Tokyo;1600,2100;Not Region Captial;False
+Katsushika;Japan,Tokyo;1600,2100;Not Region Captial;False
+Arakawa;Japan,Tokyo;1600,2100;Not Region Captial;False
+Bunkyo;Japan,Tokyo;1600,2100;Not Region Captial;False
+Chuo;Japan,Tokyo;1600,2100;Not Region Captial;False
+Yokohama;Japan,Kanagawa;1550,1700;South of Sendai;True
+Sagamihara;Japan,Kanagawa;1600,1900;Not Region Captial;False
+Atsugi;Japan,Kanagawa;1600,1900;Not Region Captial;False
+Hiratsuka;Japan,Kanagawa;1600,1900;Not Region Captial;False
+Fujisawa;Japan,Kanagawa;1600,1900;Not Region Captial;False
+Kawasaki;Japan,Kanagawa;1600,1900;Not Region Captial;False
+Yugawara;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Manazuru;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Odawara;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Minamiashigara;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Yamakita;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Hadano;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Ninomiya;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Chigasaki;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Yamato;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Kamakura;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Miura;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Yokosuka;Japan,Kanagawa;1600,2100;Not Region Captial;False
+Nagano;Japan,Nagano;1550,1700;Region Capital;True
+Hakuba;Japan,Nagano;1600,1900;Not Region Captial;False
+Matsumoto;Japan,Nagano;1600,1900;Not Region Captial;False
+Ueda;Japan,Nagano;1600,1900;Not Region Captial;False
+Karuizawa;Japan,Nagano;1600,1900;Not Region Captial;False
+Nozawaonsen;Japan,Nagano;1600,2100;Not Region Captial;False
+Iiyama;Japan,Nagano;1600,2100;Not Region Captial;False
+Otari;Japan,Nagano;1600,2100;Not Region Captial;False
+Omachi;Japan,Nagano;1600,2100;Not Region Captial;False
+Matsukawa;Japan,Nagano;1600,2100;Not Region Captial;False
+Azumino;Japan,Nagano;1600,2100;Not Region Captial;False
+Chikuma;Japan,Nagano;1600,2100;Not Region Captial;False
+Shiojiri;Japan,Nagano;1600,2100;Not Region Captial;False
+Kiso;Japan,Nagano;1600,2100;Not Region Captial;False
+Ina;Japan,Nagano;1600,2100;Not Region Captial;False
+Komagane;Japan,Nagano;1600,2100;Not Region Captial;False
+Takamori;Japan,Nagano;1600,2100;Not Region Captial;False
+Iida;Japan,Nagano;1600,2100;Not Region Captial;False
+Achi;Japan,Nagano;1600,2100;Not Region Captial;False
+Chino;Japan,Nagano;1600,2100;Not Region Captial;False
+Koumi;Japan,Nagano;1600,2100;Not Region Captial;False
+Kawakami;Japan,Nagano;1600,2100;Not Region Captial;False
+Saku;Japan,Nagano;1600,2100;Not Region Captial;False
+Komoro;Japan,Nagano;1600,2100;Not Region Captial;False
+Kōfu;Japan,Yamanashi;1550,1800;Not Nation Capital;True
+Hokuto;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Kai;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Showa;Japan,Yamanashi;1600,2100;Not Fukushima;True
+Fujikawa;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Minobu;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Hayakawa;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Nambu;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Fuefuki;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Yamanashi;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Kosuge;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Otsuki;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Uenohara;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Doshi;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Yamanakako;Japan,Yamanashi;1600,2100;Not Region Captial;False
+Shizuoka;Japan,Shizuoka;1550,1800;Not Nation Capital;False
+Fuji;Japan,Shizuoka;1550,1900;Not Nation Capital;False
+Hamamatsu;Japan,Shizuoka;1600,1900;Not Region Capital;False
+Yaizu;Japan,Shizuoka;1600,1900;Not Region Capital;False
+Atami;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Itō;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Higashiizu;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Shimoda;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Minamiizu;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Izu;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Numazu;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Mishima;Japan,Shizuoka;1600,2100;Not Fukushima;True
+Fujinomiya;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Fujieda;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Kakegawa;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Omaezaki;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Fukuroi;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Kosai;Japan,Shizuoka;1600,2100;Not Region Capital;False
+Toyama;Japan,Toyama;1550,1800;Not Nation Capital;False
+Takaoka;Japan,Toyama;1600,1900;Not Region Capital;False
+Asahi;Japan,Toyama;1600,2100;Not Chiba;True
+Nyuzen;Japan,Toyama;1600,2100;Not Region Capital;False
+Kurobe;Japan,Toyama;1600,2100;Not Region Capital;False
+Uozu;Japan,Toyama;1600,2100;Not Region Capital;False
+Namerikawa;Japan,Toyama;1600,2100;Not Region Capital;False
+Imizu;Japan,Toyama;1600,2100;Not Region Capital;False
+Tonami;Japan,Toyama;1600,2100;Not Region Capital;False
+Nanto;Japan,Toyama;1600,2100;Not Region Capital;False
+Kanazawa;Japan,Ishikawa;1550,1800;Not Nation Capital;False
+Suzu;Japan,Ishikawa;1600,1900;Not Region Capital;False
+Wajima;Japan,Ishikawa;1600,1900;Not Region Capital;False
+Nanao;Japan,Ishikawa;1600,1900;Not Region Capital;False
+Komatsu;Japan,Ishikawa;1600,1900;Not Region Capital;False
+Noto;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Azamizu;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Shika;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Hakui;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Kahoku;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Nonoichi;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Hakusan;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Nomi;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Kaga;Japan,Ishikawa;1600,2100;Not Region Capital;False
+Fukui;Japan,Fukui;1550,1800;Not Nation Capital;False
+Awara;Japan,Fukui;1600,2100;Not Region Capital;False
+Sakai;Japan,Fukui;1600,2100;Not Osaka;True
+Eiheiji;Japan,Fukui;1600,2100;Not Region Capital;False
+Katsuyama;Japan,Fukui;1600,2100;Not Region Capital;False
+Ono;Japan,Fukui;1600,2100;Not Region Capital;False
+Ikeda;Japan,Fukui;1600,2100;Not Region Capital;False
+Sabae;Japan,Fukui;1600,2100;Not Region Capital;False
+Echizen;Japan,Fukui;1600,2100;Not Region Capital;False
+Minamiechizen;Japan,Fukui;1600,2100;Not Region Capital;False
+Tsuruga;Japan,Fukui;1600,2100;Not Region Capital;False
+Wakasa;Japan,Fukui;1600,2100;Not Region Capital;False
+Obama;Japan,Fukui;1600,2100;Not Region Capital;False
+Gifu;Japan,Gifu;1550,1800;Not Nation Capital;False
+Takayama;Japan,Gifu;1600,1900;Not Region Capital;False
+Hida;Japan,Gifu;1600,2100;Not Region Capital;False
+Gero;Japan,Gifu;1600,2100;Not Region Capital;False
+Gujo;Japan,Gifu;1600,2100;Not Region Capital;False
+Higashighirakawa;Japan,Gifu;1600,2100;Not Region Capital;False
+Ena;Japan,Gifu;1600,2100;Not Region Capital;False
+Nakatsugawa;Japan,Gifu;1600,2100;Not Region Capital;False
+Motosu;Japan,Gifu;1600,2100;Not Region Capital;False
+Ogaki;Japan,Gifu;1600,2100;Not Region Capital;False
+Sekigahara;Japan,Gifu;1600,2100;Not Region Capital;False
+Tarui;Japan,Gifu;1600,2100;Not Region Capital;False
+Yoro;Japan,Gifu;1600,2100;Not Region Capital;False
+Kaizu;Japan,Gifu;1600,2100;Not Region Capital;False
+Hashima;Japan,Gifu;1600,2100;Not Region Capital;False
+Mizuho;Japan,Gifu;1600,2100;Not Region Capital;False
+Kakamigahara;Japan,Gifu;1600,2100;Not Region Capital;False
+Mino;Japan,Gifu;1600,2100;Not Region Capital;False
+Seki;Japan,Gifu;1600,2100;Not Region Capital;False
+Minokamo;Japan,Gifu;1600,2100;Not Region Capital;False
+Kani;Japan,Gifu;1600,2100;Not Region Capital;False
+Mitake;Japan,Gifu;1600,2100;Not Region Capital;False
+Yaotsu;Japan,Gifu;1600,2100;Not Region Capital;False
+Tajimi;Japan,Gifu;1600,2100;Not Region Capital;False
+Toki;Japan,Gifu;1600,2100;Not Region Capital;False
+Mizunami;Japan,Gifu;1600,2100;Not Region Capital;False
+Shirakawa-go;Japan,Gifu;1600,2100;Not Region Capital;False
+Nagoya;Japan,Aichi;1550,1800;Not Nation Capital;False
+Toyota;Japan,Aichi;1600,1900;Not Region Capital;False
+Okazaki;Japan,Aichi;1600,1900;Not Region Capital;False
+Toyohashi;Japan,Aichi;1600,1900;Not Region Capital;False
+Tonoye;Japan,Aichi;1600,2100;Not Region Capital;False
+Toei;Japan,Aichi;1600,2100;Not Region Capital;False
+Shitara;Japan,Aichi;1600,2100;Not Region Capital;False
+Shinshiro;Japan,Aichi;1600,2100;Not Region Capital;False
+Tahara;Japan,Aichi;1600,2100;Not Region Capital;False
+Gamagori;Japan,Aichi;1600,2100;Not Region Capital;False
+Kota;Japan,Aichi;1600,2100;Not Region Capital;False
+Nishio;Japan,Aichi;1600,2100;Not Region Capital;False
+Anjo;Japan,Aichi;1600,2100;Not Region Capital;False
+Chiryu;Japan,Aichi;1600,2100;Not Region Capital;False
+Kariya;Japan,Aichi;1600,2100;Not Region Capital;False
+Obu;Japan,Aichi;1600,2100;Not Region Capital;False
+Handa;Japan,Aichi;1600,2100;Not Region Capital;False
+Minamichita;Japan,Aichi;1600,2100;Not Region Capital;False
+Tokoname;Japan,Aichi;1600,2100;Not Region Capital;False
+Chita;Japan,Aichi;1600,2100;Not Russia;True
+Tokai;Japan,Aichi;1600,2100;Not Ibaraki;True
+Nagakute;Japan,Aichi;1600,2100;Not Region Capital;False
+Seto;Japan,Aichi;1600,2100;Not Region Capital;False
+Kasugai;Japan,Aichi;1600,2100;Not Region Capital;False
+Inuyama;Japan,Aichi;1600,2100;Not Region Capital;False
+Komaki;Japan,Aichi;1600,2100;Not Region Capital;False
+Ichinomiya;Japan,Aichi;1600,2100;Not Chiba;True
+Inazawa;Japan,Aichi;1600,2100;Not Region Capital;False
+Tsushima;Japan,Aichi;1600,2100;Not Region Capital;False
+Yatomi;Japan,Aichi;1600,2100;Not Region Capital;False
+Ōtsu;Japan,Shiga;1550,1800;Not Nation Capital;False
+Kusatsu;Japan,Shiga;1600,2100;Not Region Capital;False
+Koka;Japan,Shiga;1600,2100;Not Region Capital;False
+Omihachiman;Japan,Shiga;1600,2100;Not Region Capital;False
+Hikone;Japan,Shiga;1600,2100;Not Region Capital;False
+Maibara;Japan,Shiga;1600,2100;Not Region Capital;False
+Nagahama;Japan,Shiga;1600,2100;Not Region Capital;False
+Takashima;Japan,Shiga;1600,2100;Not Region Capital;False
+Tsu;Japan,Mie;1550,1800;Not Nation Capital;False
+Yokkaichi;Japan,Mie;1600,1900;Not Region Capital;False
+Ise;Japan,Mie;1600,1900;Not Region Capital;False
+Suzuka;Japan,Mie;1600,2100;Not Region Capital;False
+Kameyama;Japan,Mie;1600,2100;Not Region Capital;False
+Iga;Japan,Mie;1600,2100;Not Region Capital;False
+Nabari;Japan,Mie;1600,2100;Not Region Capital;False
+Matsusaka;Japan,Mie;1600,2100;Not Region Capital;False
+Meiwa;Japan,Mie;1600,2100;Not Region Capital;False
+Toba;Japan,Mie;1600,2100;Not Region Capital;False
+Shima;Japan,Mie;1600,2100;Not Region Capital;False
+Owase;Japan,Mie;1600,2100;Not Region Capital;False
+Kumano;Japan,Mie;1600,2100;Not Region Capital;False
+Kyoto;Japan,Kyoto;1500,1650;Not Nation Capital;False
+Kyōtango;Japan,Kyoto;1600,2100;Not Region Capital;False
+Ine;Japan,Kyoto;1600,2100;Not Region Capital;False
+Miyasu;Japan,Kyoto;1600,2100;Not Region Capital;False
+Maizuru;Japan,Kyoto;1600,2100;Not Region Capital;False
+Fukuchiyama;Japan,Kyoto;1600,2100;Not Region Capital;False
+Nantan;Japan,Kyoto;1600,2100;Not Region Capital;False
+Kameoka;Japan,Kyoto;1600,2100;Not Region Capital;False
+Muko;Japan,Kyoto;1600,2100;Not Region Capital;False
+Nagaokakyo;Japan,Kyoto;1600,2100;Not Region Capital;False
+Uji;Japan,Kyoto;1600,2100;Not Region Capital;False
+Joyo;Japan,Kyoto;1600,2100;Not Region Capital;False
+Osaka;Japan,Osaka;1500,1650;Not Nation Capital;False
+Sakai;Japan,Osaka;1600,1900;Not Fukui;True
+Takatsuki;Japan,Osaka;1600,2100;Not Region Capital;False
+Hirakata;Japan,Osaka;1600,2100;Not Region Capital;False
+Ibaraki;Japan,Osaka;1600,2100;Not Ibaraki Prefecture;True
+Minoo;Japan,Osaka;1600,2100;Not Region Capital;False
+Toyonaka;Japan,Osaka;1600,2100;Not Region Capital;False
+Katano;Japan,Osaka;1600,2100;Not Region Capital;False
+Neyagawa;Japan,Osaka;1600,2100;Not Region Capital;False
+Higashiosaka;Japan,Osaka;1600,2100;Not Region Capital;False
+Yao;Japan,Osaka;1600,2100;Not Region Capital;False
+Kashiwara;Japan,Osaka;1600,2100;Not Region Capital;False
+Habikino;Japan,Osaka;1600,2100;Not Region Capital;False
+Tondabayashi;Japan,Osaka;1600,2100;Not Region Capital;False
+Kawachinagano;Japan,Osaka;1600,2100;Not Region Capital;False
+Takaishi;Japan,Osaka;1600,2100;Not Region Capital;False
+Izumiotsu;Japan,Osaka;1600,2100;Not Region Capital;False
+Kishiwada;Japan,Osaka;1600,2100;Not Region Capital;False
+Kaizuka;Japan,Osaka;1600,2100;Not Region Capital;False
+Izumisano;Japan,Osaka;1600,2100;Not Region Capital;False
+Sennan;Japan,Osaka;1600,2100;Not Region Capital;False
+Hannan;Japan,Osaka;1600,2100;Not Region Capital;False
+Wakayama;Japan,Wakayama;1550,1750;Not Nation Capital;False
+Tanabe;Japan,Wakayama;1600,1900;Not Region Capital;False
+Shirahama;Japan,Wakayama;1600,1900;Not Region Capital;False
+Kinokawa;Japan,Wakayama;1600,2100;Not Region Capital;False
+Gobo;Japan,Wakayama;1600,2100;Not Region Capital;False
+Susami;Japan,Wakayama;1600,2100;Not Region Capital;False
+Taiji;Japan,Wakayama;1600,2100;Not Region Capital;False
+Shingu;Japan,Wakayama;1600,2100;Not Region Capital;False
