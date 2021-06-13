@@ -33,7 +33,7 @@ class App:
     self.menubar = Menu(self.window)
     self.commands_menu = Menu(self.menubar, tearoff=0)
     self.commands_menu.add_command(label="Configure Maps", command=self.begin_map_configuration)
-    self.commands_menu.add_command(label="Options", command=self.open_options_window)
+    self.commands_menu.add_command(label="Question Options", command=self.open_options_window)
     self.commands_menu.add_command(label="Ambiguity check", command=self.ambiguity_check)
     self.commands_menu.add_command(label="Reload Quiz", command=self.reload_quiz)
     self.menubar.add_cascade(label="Commands", menu=self.commands_menu)
