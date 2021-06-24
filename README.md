@@ -8,7 +8,7 @@ This is a Python program for practising identifying geographical features useful
 
 - You will need to have Python installed - download the latest version [here](https://www.python.org/downloads/)
 - Extract/clone the repository to a new folder
-- Open a command propmt in the root folder (the one containing ``app.py``). Run the following commands to set up the Python virtual environment:
+- Open a command prompt in the root folder (the one containing ``app.py``). Run the following commands to set up the Python virtual environment:
     * Create a virtual environment with:  
      ``python3 -m venv env``  
      or if that gives an error,  
